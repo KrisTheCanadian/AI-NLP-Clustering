@@ -1,0 +1,18 @@
+Token,NEtype,Governor,ListofDependants,SentimentValueofToken,SentimentValueofSentence
+U.S.,GPE,agencies,[],0.0,2.0
+January,DATE,in,['2017'],0.0,2.0
+2017,DATE,January,[],0.0,2.0
+Russia,GPE,mounted,[],0.0,2.0
+Trump,ORG,beat,[],0.0,2.0
+Clinton,PERSON,beat,[],0.0,2.0
+Senate,ORG,Committee,[],0.0,2.0
+Intelligence,ORG,Committee,[],0.0,2.0
+Committee,ORG,affirmed,"['the', 'bipartisan', 'Senate', 'Intelligence']",0.0,2.0
+three,DATE,years,[],0.0,2.0
+years,DATE,after,"['three', 'of']",0.0,2.0
+Russia,GPE,preferred,[],0.0,2.0
+Trump,ORG,preferred,[],0.0,2.0
+Russian,NORP,President,[],0.0,2.0
+Vladimir,PERSON,Putin,[],0.0,2.0
+Putin,PERSON,approved,"['President', 'Vladimir']",0.0,2.0
+Kremlin,ORG,campaign,"['the', ""'s""]",0.0,2.0

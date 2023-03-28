@@ -1,0 +1,1813 @@
+Token,NE?,NEtype,Governor,ListofDependants,SentimentValueofToken,SentimentValueofSentence
+Trump,1,ORG,suit,[],0.0,-4.0
+suit,0,,BERNARD,"['Trump', 'against', 'part', 'COLVIN']",0.0,-4.0
+against,0,,suit,['Clinton'],0.0,-4.0
+Clinton,1,PERSON,against,[],0.0,-4.0
+part,0,,suit,['of'],0.0,-4.0
+of,0,,part,[],0.0,-4.0
+longtime,0,,JILL,[],0.0,-4.0
+legal,0,,strategyBy,[],1.0,-4.0
+strategyBy,0,,JILL,['legal'],0.0,-4.0
+JILL,1,ORG,COLVIN,"['longtime', 'strategyBy']",0.0,-4.0
+COLVIN,0,,suit,"['JILL', 'TUCKER']",0.0,-4.0
+ERIC,1,PERSON,TUCKER,[],0.0,-4.0
+TUCKER,1,PERSON,COLVIN,"['ERIC', 'and']",0.0,-4.0
+and,0,,TUCKER,[],0.0,-4.0
+BERNARD,1,ORG,BERNARD,"['suit', 'revisits', 'grievance', ':', 'colluding', '.']",0.0,-4.0
+CONDON,0,,30.3.2022,[],0.0,-4.0
+30.3.2022,1,PERSON,Trump,['CONDON'],0.0,-4.0
+Trump,1,PERSON,revisits,"['30.3.2022', ""'s""]",0.0,-4.0
+'s,1,PERSON,Trump,[],0.0,-4.0
+latest,0,,revisits,[],0.0,-4.0
+lawsuit,0,,revisits,[],-2.0,-4.0
+revisits,0,,BERNARD,"['Trump', 'latest', 'lawsuit']",0.0,-4.0
+a,0,,grievance,[],0.0,-4.0
+familiar,0,,grievance,[],0.0,-4.0
+grievance,0,,BERNARD,"['a', 'familiar']",0.0,-4.0
+that,0,,colluding,['Democrats'],0.0,-4.0
+Democrats,1,NORP,that,['in'],0.0,-4.0
+in,0,,Democrats,['claims'],0.0,-4.0
+2016,1,DATE,claims,[],0.0,-4.0
+concocted,0,,claims,[],0.0,-4.0
+fictitious,0,,claims,[],0.0,-4.0
+claims,0,,in,"['2016', 'concocted', 'fictitious']",0.0,-4.0
+that,0,,colluding,[],0.0,-4.0
+his,0,,campaign,[],0.0,-4.0
+campaign,0,,colluding,['his'],0.0,-4.0
+was,0,,colluding,[],0.0,-4.0
+colluding,0,,BERNARD,"['that', 'that', 'campaign', 'was', 'with', 'and', 'pursued']",-3.0,-4.0
+with,0,,colluding,['Russia'],0.0,-4.0
+Russia,1,GPE,with,[],0.0,-4.0
+and,0,,colluding,[],0.0,-4.0
+that,0,,pursued,[],0.0,-4.0
+the,0,,FBI,[],0.0,-4.0
+FBI,1,ORG,pursued,"['the', 'as']",0.0,-4.0
+as,0,,FBI,['result'],0.0,-4.0
+a,0,,result,[],0.0,-4.0
+result,0,,as,['a'],0.0,-4.0
+pursued,0,,colluding,"['that', 'FBI', 'investigation']",0.0,-4.0
+an,0,,investigation,[],0.0,-4.0
+unfounded,0,,investigation,[],0.0,-4.0
+investigation,0,,pursued,"['an', 'unfounded']",0.0,-4.0
+NEW,1,GPE,YORK,[],0.0,0.0
+YORK,1,GPE,responded,"['NEW', '(', 'AP', ')', '---']",0.0,0.0
+AP,1,ORG,YORK,[],0.0,0.0
+When,0,,panned,[],0.0,0.0
+a,0,,critic,[],0.0,0.0
+Pulitzer,1,WORK_OF_ART,Prize,[],0.0,0.0
+Prize,1,WORK_OF_ART,winning,['Pulitzer'],0.0,0.0
+winning,0,,critic,"['Prize', '-']",4.0,0.0
+architecture,0,,critic,[],0.0,0.0
+critic,0,,panned,"['a', 'winning', 'architecture']",-2.0,0.0
+panned,0,,responded,"['When', 'critic', 'plans']",0.0,0.0
+Donald,1,PERSON,Trump,[],0.0,0.0
+Trump,1,PERSON,plans,"['Donald', ""'s""]",0.0,0.0
+'s,1,PERSON,Trump,[],0.0,0.0
+plans,0,,panned,"['Trump', 'for']",0.0,0.0
+for,0,,plans,['skyscraper'],0.0,0.0
+a,0,,skyscraper,[],0.0,0.0
+new,0,,skyscraper,[],0.0,0.0
+Manhattan,1,GPE,skyscraper,[],0.0,0.0
+skyscraper,0,,for,"['a', 'new', 'Manhattan']",0.0,0.0
+Trump,1,ORG,responded,[],0.0,0.0
+responded,0,,responded,"['YORK', 'panned', 'Trump', 'by', '.']",0.0,0.0
+by,0,,responded,['suing'],0.0,0.0
+suing,0,,by,[],-2.0,0.0
+When,0,,sued,[],0.0,-1.0
+the,0,,tenants,[],0.0,-1.0
+tenants,0,,sued,"['the', 'of', 'trying']",0.0,-1.0
+of,0,,tenants,['building'],0.0,-1.0
+a,0,,building,[],0.0,-1.0
+building,0,,of,['a'],0.0,-1.0
+he,0,,trying,[],0.0,-1.0
+was,0,,trying,[],0.0,-1.0
+trying,0,,tenants,"['he', 'was', 'clear']",0.0,-1.0
+to,0,,clear,[],0.0,-1.0
+clear,0,,trying,['to'],1.0,-1.0
+sued,0,,sued,"['When', 'tenants', 'halt', '.']",-2.0,-1.0
+to,0,,halt,[],0.0,-1.0
+halt,0,,sued,"['to', 'evictions']",0.0,-1.0
+their,0,,evictions,[],0.0,-1.0
+evictions,0,,halt,"['their', 'slapped']",0.0,-1.0
+Trump,1,PERSON,slapped,[],0.0,-1.0
+slapped,0,,evictions,"['Trump', 'back', 'by']",0.0,-1.0
+back,0,,slapped,[],0.0,-1.0
+by,0,,slapped,['filing'],0.0,-1.0
+filing,0,,by,"['suit', 'against']",0.0,-1.0
+suit,0,,filing,[],0.0,-1.0
+against,0,,filing,['firm'],0.0,-1.0
+the,0,,firm,[],0.0,-1.0
+law,0,,firm,[],0.0,-1.0
+firm,0,,against,"['the', 'law', 'representing']",0.0,-1.0
+representing,0,,firm,['tenants'],0.0,-1.0
+the,0,,tenants,[],0.0,-1.0
+tenants,0,,representing,['the'],0.0,-1.0
+And,0,,said,[],0.0,3.0
+when,0,,said,[],0.0,3.0
+an,0,,author,[],0.0,3.0
+author,0,,said,['an'],0.0,3.0
+said,0,,said,"['And', 'when', 'author', 'was', '.']",0.0,3.0
+the,0,,president,[],0.0,3.0
+former,0,,president,[],0.0,3.0
+president,0,,was,"['the', 'former']",0.0,3.0
+was,0,,said,"['president', 'worth']",0.0,3.0
+worth,0,,was,['less'],2.0,3.0
+far,0,,less,[],0.0,3.0
+less,0,,worth,"['far', 'claimed']",0.0,3.0
+than,0,,claimed,[],0.0,3.0
+he,0,,claimed,[],0.0,3.0
+'d,0,,claimed,[],0.0,3.0
+claimed,0,,less,"['than', 'he', ""'d"", 'took']",0.0,3.0
+Trump,1,PERSON,took,[],0.0,3.0
+again,0,,took,[],0.0,3.0
+took,0,,claimed,"['Trump', 'again', 'action']",0.0,3.0
+legal,0,,action,[],1.0,3.0
+action,0,,took,['legal'],0.0,3.0
+So,0,,was,[],0.0,2.0
+when,0,,filed,[],0.0,2.0
+Trump,1,ORG,week,[],0.0,2.0
+last,1,DATE,week,[],0.0,2.0
+week,1,DATE,filed,"['Trump', 'last']",0.0,2.0
+filed,0,,was,"['when', 'week', 'suit']",0.0,2.0
+a,0,,suit,[],0.0,2.0
+sprawling,0,,suit,[],0.0,2.0
+suit,0,,filed,"['a', 'sprawling', 'accusing']",0.0,2.0
+accusing,0,,suit,['rival'],-2.0,2.0
+his,0,,rival,[],0.0,2.0
+2016,1,DATE,rival,[],0.0,2.0
+rival,0,,accusing,"['his', '2016', 'Clinton']",0.0,2.0
+Hillary,1,PERSON,Clinton,[],0.0,2.0
+Clinton,1,PERSON,rival,"['Hillary', 'and', 'Party']",0.0,2.0
+and,0,,Clinton,[],0.0,2.0
+the,1,ORG,Party,[],0.0,2.0
+Democratic,1,ORG,Party,[],0.0,2.0
+Party,1,ORG,Clinton,"['the', 'Democratic', 'of']",0.0,2.0
+of,0,,Party,['conspiring'],0.0,2.0
+conspiring,0,,of,['sink'],0.0,2.0
+to,0,,sink,[],0.0,2.0
+sink,0,,conspiring,"['to', 'campaign', 'by']",0.0,2.0
+his,0,,campaign,[],0.0,2.0
+winning,0,,campaign,[],4.0,2.0
+presidential,0,,campaign,[],0.0,2.0
+campaign,0,,sink,"['his', 'winning', 'presidential']",0.0,2.0
+by,0,,sink,['alleging'],0.0,2.0
+alleging,0,,by,['ties'],0.0,2.0
+ties,0,,alleging,['to'],0.0,2.0
+to,0,,ties,['one'],0.0,2.0
+Russia,1,GPE,renewing,[],0.0,2.0
+renewing,0,,one,"['Russia', '-']",0.0,2.0
+one,1,CARDINAL,to,"['renewing', 'of']",0.0,2.0
+of,0,,one,['affronts'],0.0,2.0
+his,0,,affronts,[],0.0,2.0
+longest,0,,standing,[],0.0,2.0
+standing,0,,affronts,"['longest', '-']",0.0,2.0
+perceived,0,,affronts,[],0.0,2.0
+affronts,0,,of,"['his', 'standing', 'perceived']",0.0,2.0
+it,0,,was,[],0.0,2.0
+was,0,,was,"['So', 'filed', '-', 'it', ""n't"", 'surprise', '.']",0.0,2.0
+n't,0,,was,[],0.0,2.0
+a,0,,surprise,[],0.0,2.0
+surprise,0,,was,['a'],0.0,2.0
+Trump,1,ORG,spent,[],0.0,1.0
+has,0,,spent,[],0.0,1.0
+spent,0,,spent,"['Trump', 'has', 'decades', '.']",0.0,1.0
+decades,1,DATE,spent,['repurposing'],0.0,1.0
+repurposing,0,,decades,"['grievances', 'into']",0.0,1.0
+political,0,,grievances,"['and', 'personal']",0.0,1.0
+and,0,,political,[],0.0,1.0
+personal,0,,political,[],0.0,1.0
+grievances,0,,repurposing,['political'],0.0,1.0
+into,0,,repurposing,['causes'],0.0,1.0
+causes,0,,into,['of'],0.0,1.0
+of,0,,causes,['action'],0.0,1.0
+legal,0,,action,[],1.0,1.0
+action,0,,of,['legal'],0.0,1.0
+Throughout,0,,used,['career'],0.0,-4.0
+his,0,,business,[],0.0,-4.0
+business,0,,career,"['his', 'and']",0.0,-4.0
+and,0,,business,[],0.0,-4.0
+political,0,,career,[],0.0,-4.0
+career,0,,Throughout,"['business', 'political']",0.0,-4.0
+he,0,,used,[],0.0,-4.0
+has,0,,used,[],0.0,-4.0
+used,0,,used,"['Throughout', 'he', 'has', 'courts', 'as', 'air', 'as', '.']",0.0,-4.0
+the,0,,courts,[],0.0,-4.0
+courts,0,,used,['the'],0.0,-4.0
+as,0,,used,['venue'],0.0,-4.0
+a,0,,venue,[],0.0,-4.0
+venue,0,,as,['a'],0.0,-4.0
+to,0,,air,[],0.0,-4.0
+air,0,,used,"['to', 'complaints', 'and']",0.0,-4.0
+his,0,,complaints,[],0.0,-4.0
+complaints,0,,air,['his'],-2.0,-4.0
+and,0,,air,[],0.0,-4.0
+as,0,,used,['tool'],0.0,-4.0
+a,0,,tool,[],0.0,-4.0
+tool,0,,as,"['a', 'intimidate']",0.0,-4.0
+to,0,,intimidate,[],0.0,-4.0
+intimidate,0,,tool,"['to', 'adversaries', 'sully', 'reputations', 'and', 'try']",-2.0,-4.0
+adversaries,0,,intimidate,[],0.0,-4.0
+sully,0,,intimidate,[],0.0,-4.0
+their,0,,reputations,[],0.0,-4.0
+reputations,0,,intimidate,['their'],0.0,-4.0
+and,0,,intimidate,[],0.0,-4.0
+try,0,,intimidate,['garner'],0.0,-4.0
+to,0,,garner,[],0.0,-4.0
+garner,0,,try,"['to', 'attention']",0.0,-4.0
+media,0,,attention,[],0.0,-4.0
+attention,0,,garner,['media'],0.0,-4.0
+It,0,,'s,[],0.0,-3.0
+'s,0,,'s,"['It', 'part', '.']",0.0,-3.0
+part,0,,'s,['of'],0.0,-3.0
+of,0,,part,['pattern'],0.0,-3.0
+his,0,,pattern,[],0.0,-3.0
+pattern,0,,of,"['his', 'of']",0.0,-3.0
+of,0,,pattern,['using'],0.0,-3.0
+using,0,,of,"['law', 'punish']",0.0,-3.0
+the,0,,law,[],0.0,-3.0
+law,0,,using,['the'],0.0,-3.0
+to,0,,punish,[],0.0,-3.0
+punish,0,,using,"['to', 'enemies', 'as']",-2.0,-3.0
+his,0,,enemies,[],0.0,-3.0
+enemies,0,,punish,['his'],-2.0,-3.0
+as,0,,punish,['weapon'],0.0,-3.0
+a,0,,weapon,[],0.0,-3.0
+weapon,0,,as,"['a', 'as', 'intended']",0.0,-3.0
+as,0,,weapon,['something'],0.0,-3.0
+something,0,,as,[],0.0,-3.0
+it,0,,intended,[],0.0,-3.0
+was,0,,intended,[],0.0,-3.0
+never,0,,intended,[],0.0,-3.0
+intended,0,,weapon,"['it', 'was', 'never', 'said']",0.0,-3.0
+to,0,,said,[],0.0,-3.0
+be,0,,said,[],0.0,-3.0
+said,0,,intended,"['to', 'be', 'Zirin']",0.0,-3.0
+James,1,PERSON,Zirin,[],0.0,-3.0
+D.,1,PERSON,Zirin,[],0.0,-3.0
+Zirin,1,PERSON,said,"['James', 'D.', 'prosecutor', 'author']",0.0,-3.0
+a,0,,prosecutor,[],0.0,-3.0
+former,0,,prosecutor,[],0.0,-3.0
+federal,0,,prosecutor,[],0.0,-3.0
+prosecutor,0,,Zirin,"['a', 'former', 'federal', 'in']",0.0,-3.0
+in,0,,prosecutor,['Manhattan'],0.0,-3.0
+Manhattan,1,GPE,in,['and'],0.0,-3.0
+and,0,,Manhattan,[],0.0,-3.0
+the,0,,author,[],0.0,-3.0
+author,0,,Zirin,"['the', 'of']",0.0,-3.0
+of,0,,author,['book'],0.0,-3.0
+the,0,,book,[],0.0,-3.0
+book,0,,of,"['the', 'Plaintiff', 'details']",0.0,-3.0
+Plaintiff,1,LAW,book,['in'],0.0,-3.0
+in,1,LAW,Plaintiff,['Chief'],0.0,-3.0
+Chief,1,LAW,in,[],0.0,-3.0
+which,0,,details,[],0.0,-3.0
+details,0,,book,"['which', 'history']",0.0,-3.0
+Trump,1,ORG,history,"[""'s""]",0.0,-3.0
+'s,0,,Trump,[],0.0,-3.0
+legal,0,,history,[],1.0,-3.0
+history,0,,details,"['Trump', 'legal']",0.0,-3.0
+For,0,,was,['him'],0.0,-1.0
+him,0,,For,[],0.0,-1.0
+litigation,0,,was,[],-1.0,-1.0
+was,0,,was,"['For', 'litigation', 'way', '.']",0.0,-1.0
+a,0,,way,[],0.0,-1.0
+way,0,,was,"['a', 'of']",0.0,-1.0
+of,0,,way,['life'],0.0,-1.0
+life,0,,of,[],0.0,-1.0
+Trump,1,ORG,revisits,"[""'s""]",0.0,-5.0
+'s,0,,Trump,[],0.0,-5.0
+latest,0,,revisits,[],0.0,-5.0
+lawsuit,0,,revisits,[],-2.0,-5.0
+revisits,0,,grievance,"['Trump', 'latest', 'lawsuit']",0.0,-5.0
+a,0,,grievance,[],0.0,-5.0
+familiar,0,,grievance,[],0.0,-5.0
+grievance,0,,grievance,"['revisits', 'a', 'familiar', ':', 'colluding', '.']",0.0,-5.0
+that,0,,colluding,['Democrats'],0.0,-5.0
+Democrats,1,NORP,that,['in'],0.0,-5.0
+in,0,,Democrats,['claims'],0.0,-5.0
+2016,1,DATE,claims,[],0.0,-5.0
+concocted,0,,claims,[],0.0,-5.0
+fictitious,0,,claims,[],0.0,-5.0
+claims,0,,in,"['2016', 'concocted', 'fictitious']",0.0,-5.0
+that,0,,colluding,[],0.0,-5.0
+his,0,,campaign,[],0.0,-5.0
+campaign,0,,colluding,['his'],0.0,-5.0
+was,0,,colluding,[],0.0,-5.0
+colluding,0,,grievance,"['that', 'that', 'campaign', 'was', 'with', 'and', 'pursued']",-3.0,-5.0
+with,0,,colluding,['Russia'],0.0,-5.0
+Russia,1,GPE,with,[],0.0,-5.0
+and,0,,colluding,[],0.0,-5.0
+that,0,,pursued,[],0.0,-5.0
+the,0,,FBI,[],0.0,-5.0
+FBI,1,ORG,pursued,"['the', 'as']",0.0,-5.0
+as,0,,FBI,['result'],0.0,-5.0
+a,0,,result,[],0.0,-5.0
+result,0,,as,['a'],0.0,-5.0
+pursued,0,,colluding,"['that', 'FBI', 'investigation']",0.0,-5.0
+an,0,,investigation,[],0.0,-5.0
+unfounded,0,,investigation,[],0.0,-5.0
+investigation,0,,pursued,"['an', 'unfounded']",0.0,-5.0
+The,0,,suit,[],0.0,1.0
+108,1,CARDINAL,page,[],0.0,1.0
+page,0,,suit,"['108', '-']",0.0,1.0
+suit,0,,screed,"['The', 'page']",0.0,1.0
+as,0,,much,[],0.0,1.0
+much,0,,screed,['as'],0.0,1.0
+a,0,,screed,[],0.0,1.0
+political,0,,screed,[],0.0,1.0
+screed,0,,screed,"['suit', 'much', 'a', 'political', 'as', '.']",0.0,1.0
+as,0,,screed,['names'],0.0,1.0
+a,0,,names,[],0.0,1.0
+legal,0,,names,[],1.0,1.0
+document,0,,names,[],0.0,1.0
+names,0,,as,"['a', 'legal', 'document', 'as']",0.0,1.0
+as,0,,names,['longstanding'],0.0,1.0
+defendants,0,,longstanding,[],0.0,1.0
+longstanding,0,,as,"['defendants', 'targets', 'from']",0.0,1.0
+targets,0,,longstanding,['of'],0.0,1.0
+of,0,,targets,['ire'],0.0,1.0
+his,0,,ire,[],0.0,1.0
+ire,0,,of,['his'],0.0,1.0
+from,0,,longstanding,['officials'],0.0,1.0
+both,0,,realm,[],0.0,1.0
+the,0,,realm,[],0.0,1.0
+political,0,,realm,[],0.0,1.0
+realm,0,,officials,"['both', 'the', 'political', 'Clinton', 'Page']",0.0,1.0
+Clinton,1,PERSON,realm,"['-', 'and', 'aides', '-', 'and', 'community']",0.0,1.0
+and,0,,Clinton,[],0.0,1.0
+her,0,,aides,[],0.0,1.0
+aides,0,,Clinton,['her'],0.0,1.0
+and,0,,Clinton,[],0.0,1.0
+the,0,,community,[],0.0,1.0
+law,0,,enforcement,[],0.0,1.0
+enforcement,0,,community,['law'],0.0,1.0
+community,0,,Clinton,"['the', 'enforcement', 'including']",0.0,1.0
+including,0,,community,['Comey'],0.0,1.0
+former,0,,Director,[],0.0,1.0
+FBI,1,ORG,Director,[],0.0,1.0
+Director,0,,Comey,"['former', 'FBI']",0.0,1.0
+James,1,PERSON,Comey,[],0.0,1.0
+Comey,1,PERSON,including,"['Director', 'James', 'and', 'Strzok']",0.0,1.0
+and,0,,Comey,[],0.0,1.0
+Peter,1,PERSON,Strzok,[],0.0,1.0
+Strzok,1,PERSON,Comey,"['Peter', 'and']",0.0,1.0
+and,0,,Strzok,[],0.0,1.0
+Lisa,1,PERSON,Page,[],0.0,1.0
+Page,1,PERSON,realm,['Lisa'],0.0,1.0
+two,1,CARDINAL,officials,[],0.0,1.0
+FBI,1,ORG,officials,[],0.0,1.0
+officials,0,,from,"['realm', 'two', 'FBI', 'exchanged']",0.0,1.0
+who,0,,exchanged,[],0.0,1.0
+exchanged,0,,officials,"['who', 'messages', 'during']",0.0,1.0
+critical,0,,messages,[],0.0,1.0
+text,0,,messages,[],0.0,1.0
+messages,0,,exchanged,"['critical', 'text', 'about']",0.0,1.0
+about,0,,messages,['Trump'],0.0,1.0
+Trump,1,ORG,about,[],0.0,1.0
+during,0,,exchanged,['campaign'],0.0,1.0
+the,0,,campaign,[],0.0,1.0
+2016,1,DATE,campaign,[],0.0,1.0
+campaign,0,,during,"['the', '2016']",0.0,1.0
+It,0,,piggybacks,[],0.0,-6.0
+also,0,,piggybacks,[],0.0,-6.0
+piggybacks,0,,piggybacks,"['It', 'also', 'off', 'work', '.']",0.0,-6.0
+off,0,,piggybacks,[],0.0,-6.0
+the,0,,work,[],0.0,-6.0
+work,0,,piggybacks,"['the', 'of']",0.0,-6.0
+of,0,,work,['listing'],0.0,-6.0
+special,0,,counsel,[],0.0,-6.0
+counsel,0,,Durham,['special'],0.0,-6.0
+John,1,PERSON,Durham,[],0.0,-6.0
+Durham,1,PERSON,listing,"['counsel', 'John']",0.0,-6.0
+listing,0,,of,"['Durham', 'as', 'people']",0.0,-6.0
+as,0,,listing,['defendants'],0.0,-6.0
+defendants,0,,as,[],0.0,-6.0
+the,0,,people,[],0.0,-6.0
+three,1,CARDINAL,people,[],0.0,-6.0
+people,0,,listing,"['the', 'three', '-', 'attorney', 'lawyer', '-', 'charged']",0.0,-6.0
+a,0,,attorney,[],0.0,-6.0
+cybersecurity,0,,attorney,[],0.0,-6.0
+attorney,0,,people,"['a', 'cybersecurity']",0.0,-6.0
+an,0,,lawyer,[],0.0,-6.0
+ex,1,ORG,lawyer,[],0.0,-6.0
+FBI,1,ORG,lawyer,[],0.0,-6.0
+lawyer,0,,people,"['an', 'ex', '-', 'FBI', 'and', 'analyst']",0.0,-6.0
+and,0,,lawyer,[],0.0,-6.0
+a,0,,analyst,[],0.0,-6.0
+Russia,1,GPE,analyst,[],0.0,-6.0
+analyst,0,,lawyer,"['a', 'Russia']",0.0,-6.0
+who,0,,charged,[],0.0,-6.0
+have,0,,charged,[],0.0,-6.0
+been,0,,charged,[],0.0,-6.0
+charged,0,,people,"['who', 'have', 'been', 'in']",-3.0,-6.0
+in,0,,charged,['probe'],0.0,-6.0
+that,0,,probe,[],0.0,-6.0
+criminal,0,,probe,[],-3.0,-6.0
+probe,0,,in,"['that', 'criminal']",0.0,-6.0
+Trump,0,,paints,['in'],0.0,-7.0
+in,0,,Trump,['suit'],0.0,-7.0
+the,0,,suit,[],0.0,-7.0
+suit,0,,in,['the'],0.0,-7.0
+paints,0,,paints,"['Trump', 'himself', 'as', 'knew', '.']",0.0,-7.0
+himself,0,,paints,[],0.0,-7.0
+as,0,,paints,['victim'],0.0,-7.0
+the,0,,victim,[],0.0,-7.0
+victim,0,,as,"['the', 'of']",-3.0,-7.0
+of,0,,victim,['conspiracy'],0.0,-7.0
+a,0,,conspiracy,[],0.0,-7.0
+vast,0,,conspiracy,[],0.0,-7.0
+racketeering,0,,conspiracy,[],0.0,-7.0
+conspiracy,0,,of,"['a', 'vast', 'racketeering']",-3.0,-7.0
+in,0,,officials,['which'],0.0,-7.0
+which,0,,in,[],0.0,-7.0
+FBI,1,ORG,officials,[],0.0,-7.0
+officials,0,,knew,"['in', 'FBI', 'led']",0.0,-7.0
+who,0,,led,[],0.0,-7.0
+led,0,,officials,"['who', 'investigation']",0.0,-7.0
+the,0,,investigation,[],0.0,-7.0
+investigation,0,,led,['the'],0.0,-7.0
+knew,0,,paints,"['officials', 'based']",0.0,-7.0
+that,0,,based,[],0.0,-7.0
+it,0,,based,[],0.0,-7.0
+was,0,,based,[],0.0,-7.0
+based,0,,knew,"['that', 'it', 'was', 'on']",0.0,-7.0
+on,0,,based,['premise'],0.0,-7.0
+a,0,,premise,[],0.0,-7.0
+false,0,,premise,"['and', 'contrived']",-1.0,-7.0
+and,0,,false,[],0.0,-7.0
+contrived,0,,false,[],0.0,-7.0
+premise,0,,on,"['a', 'false']",0.0,-7.0
+Acting,0,,conspired,['in'],0.0,-11.0
+in,0,,Acting,['concert'],0.0,-11.0
+concert,0,,in,[],0.0,-11.0
+the,0,,Defendants,[],0.0,-11.0
+Defendants,1,ORG,conspired,['the'],0.0,-11.0
+maliciously,0,,conspired,[],0.0,-11.0
+conspired,0,,conspired,"['Acting', 'Defendants', 'maliciously', 'weave', '.']",0.0,-11.0
+to,0,,weave,[],0.0,-11.0
+weave,0,,conspired,"['to', 'narrative']",0.0,-11.0
+a,0,,narrative,[],0.0,-11.0
+false,0,,narrative,[],-1.0,-11.0
+narrative,0,,weave,"['a', 'false', 'colluding']",0.0,-11.0
+that,0,,colluding,[],0.0,-11.0
+their,0,,opponent,[],0.0,-11.0
+Republican,1,NORP,opponent,[],0.0,-11.0
+opponent,0,,colluding,"['their', 'Republican', 'Trump']",0.0,-11.0
+Donald,1,PERSON,Trump,[],0.0,-11.0
+J.,1,PERSON,Trump,[],0.0,-11.0
+Trump,1,PERSON,opponent,"['Donald', 'J.']",0.0,-11.0
+was,0,,colluding,[],0.0,-11.0
+colluding,0,,narrative,"['that', 'opponent', 'was', 'with']",-3.0,-11.0
+with,0,,colluding,['sovereignty'],0.0,-11.0
+a,0,,sovereignty,[],0.0,-11.0
+hostile,0,,sovereignty,[],-2.0,-11.0
+foreign,0,,sovereignty,[],0.0,-11.0
+sovereignty,0,,with,"['a', 'hostile', 'foreign', 'wrote']",0.0,-11.0
+his,0,,lawyers,[],0.0,-11.0
+lawyers,0,,wrote,['his'],0.0,-11.0
+wrote,0,,sovereignty,"['lawyers', 'describing']",0.0,-11.0
+describing,0,,wrote,"['scheme', 'as']",0.0,-11.0
+the,0,,scheme,[],0.0,-11.0
+alleged,0,,scheme,[],0.0,-11.0
+scheme,0,,describing,"['the', 'alleged']",0.0,-11.0
+as,0,,describing,['subversive'],0.0,-11.0
+so,0,,outrageous,[],0.0,-11.0
+outrageous,0,,subversive,['so'],-3.0,-11.0
+subversive,0,,as,"['outrageous', 'and', 'incendiary', 'that', 'events']",-2.0,-11.0
+and,0,,subversive,[],0.0,-11.0
+incendiary,0,,subversive,[],0.0,-11.0
+that,0,,subversive,[],0.0,-11.0
+even,0,,events,[],0.0,-11.0
+the,0,,events,[],0.0,-11.0
+events,0,,subversive,"['even', 'the', 'of']",0.0,-11.0
+of,0,,events,['pale'],0.0,-11.0
+Watergate,1,EVENT,pale,[],0.0,-11.0
+pale,0,,of,"['Watergate', 'in']",0.0,-11.0
+in,0,,pale,['comparison'],0.0,-11.0
+comparison,0,,in,[],0.0,-11.0
+It,0,,'s,[],0.0,0.0
+'s,0,,'s,"['It', 'established', '.']",0.0,0.0
+well,0,,established,[],0.0,0.0
+established,0,,'s,"['well', '-', 'through']",0.0,0.0
+through,0,,established,['investigation'],0.0,0.0
+a,0,,investigation,[],0.0,0.0
+Justice,1,ORG,Department,[],2.0,0.0
+Department,1,ORG,inspector,['Justice'],0.0,0.0
+inspector,0,,investigation,['Department'],0.0,0.0
+general,0,,investigation,[],0.0,0.0
+investigation,0,,through,"['a', 'inspector', 'general', 'made']",0.0,0.0
+that,0,,made,[],0.0,0.0
+the,0,,FBI,[],0.0,0.0
+FBI,1,ORG,made,['the'],0.0,0.0
+made,0,,investigation,"['that', 'FBI', 'errors', 'during', 'look']",0.0,0.0
+errors,0,,made,"['and', 'missteps']",-2.0,0.0
+and,0,,errors,[],0.0,0.0
+missteps,0,,errors,[],0.0,0.0
+during,0,,made,['probe'],0.0,0.0
+the,0,,probe,[],0.0,0.0
+Russia,1,GPE,probe,[],0.0,0.0
+probe,0,,during,"['the', 'Russia']",0.0,0.0
+that,0,,look,[],0.0,0.0
+Trump,1,ORG,look,[],0.0,0.0
+could,0,,look,[],0.0,0.0
+look,0,,made,"['that', 'Trump', 'could', 'seize']",0.0,0.0
+to,0,,seize,[],0.0,0.0
+seize,0,,look,"['to', 'on', 'advances']",0.0,0.0
+on,0,,seize,[],0.0,0.0
+if,0,,advances,[],0.0,0.0
+his,0,,lawsuit,[],0.0,0.0
+lawsuit,0,,advances,['his'],-2.0,0.0
+advances,0,,seize,"['if', 'lawsuit']",0.0,0.0
+But,0,,did,[],0.0,0.0
+Russia,1,GPE,did,[],0.0,0.0
+did,0,,did,"['But', 'Russia', 'meddle', 'in', '.']",0.0,0.0
+meddle,0,,did,[],0.0,0.0
+in,0,,did,['election'],0.0,0.0
+the,0,,election,[],0.0,0.0
+2016,1,DATE,election,[],0.0,0.0
+election,0,,in,"['the', '2016']",0.0,0.0
+U.S.,1,GPE,agencies,[],0.0,2.0
+intelligence,0,,agencies,[],0.0,2.0
+agencies,0,,concluded,"['U.S.', 'intelligence']",0.0,2.0
+concluded,0,,concluded,"['agencies', 'in', 'mounted', '.']",0.0,2.0
+in,0,,concluded,['January'],0.0,2.0
+January,1,DATE,in,['2017'],0.0,2.0
+2017,1,DATE,January,[],0.0,2.0
+that,0,,mounted,[],0.0,2.0
+Russia,1,GPE,mounted,[],0.0,2.0
+mounted,0,,concluded,"['that', 'Russia', 'campaign']",0.0,2.0
+a,0,,campaign,[],0.0,2.0
+far,0,,ranging,[],0.0,2.0
+ranging,0,,campaign,"['far', '-']",0.0,2.0
+influence,0,,campaign,[],0.0,2.0
+campaign,0,,mounted,"['a', 'ranging', 'influence', 'aimed']",0.0,2.0
+aimed,0,,campaign,['at'],0.0,2.0
+at,0,,aimed,['helping'],0.0,2.0
+helping,0,,at,['beat'],2.0,2.0
+Trump,1,ORG,beat,[],0.0,2.0
+beat,0,,helping,"['Trump', 'Clinton']",0.0,2.0
+Clinton,1,PERSON,beat,[],0.0,2.0
+And,0,,affirmed,[],0.0,2.0
+the,0,,Committee,[],0.0,2.0
+bipartisan,0,,Committee,[],0.0,2.0
+Senate,1,ORG,Committee,[],0.0,2.0
+Intelligence,1,ORG,Committee,[],0.0,2.0
+Committee,1,ORG,affirmed,"['the', 'bipartisan', 'Senate', 'Intelligence']",0.0,2.0
+after,0,,affirmed,['years'],0.0,2.0
+three,1,DATE,years,[],0.0,2.0
+years,1,DATE,after,"['three', 'of']",0.0,2.0
+of,0,,years,['investigation'],0.0,2.0
+investigation,0,,of,[],0.0,2.0
+affirmed,0,,affirmed,"['And', 'Committee', 'after', 'conclusions', '.']",0.0,2.0
+those,0,,conclusions,[],0.0,2.0
+conclusions,0,,affirmed,"['those', 'saying']",0.0,2.0
+saying,0,,conclusions,['had'],0.0,2.0
+intelligence,0,,officials,[],0.0,2.0
+officials,0,,had,['intelligence'],0.0,2.0
+had,0,,saying,"['officials', 'information']",0.0,2.0
+specific,0,,information,[],0.0,2.0
+information,0,,had,"['specific', 'preferred']",0.0,2.0
+that,0,,preferred,[],0.0,2.0
+Russia,1,GPE,preferred,[],0.0,2.0
+preferred,0,,information,"['that', 'Russia', 'Trump', 'and', 'approved']",0.0,2.0
+Trump,1,ORG,preferred,[],0.0,2.0
+and,0,,preferred,[],0.0,2.0
+that,0,,approved,[],0.0,2.0
+Russian,1,NORP,President,[],0.0,2.0
+President,0,,Putin,['Russian'],0.0,2.0
+Vladimir,1,PERSON,Putin,[],0.0,2.0
+Putin,1,PERSON,approved,"['President', 'Vladimir']",0.0,2.0
+had,0,,approved,[],0.0,2.0
+approved,0,,preferred,"['that', 'Putin', 'had', 'and', 'directed']",2.0,2.0
+and,0,,approved,[],0.0,2.0
+directed,0,,approved,['aspects'],0.0,2.0
+aspects,0,,directed,['of'],0.0,2.0
+of,0,,aspects,['campaign'],0.0,2.0
+the,0,,Kremlin,[],0.0,2.0
+Kremlin,1,ORG,campaign,"['the', ""'s""]",0.0,2.0
+'s,0,,Kremlin,[],0.0,2.0
+influence,0,,campaign,[],0.0,2.0
+campaign,0,,of,"['Kremlin', 'influence']",0.0,2.0
+It,0,,found,[],0.0,1.0
+also,0,,found,[],0.0,1.0
+found,0,,found,"['It', 'also', 'ties', '.']",0.0,1.0
+clear,0,,ties,[],1.0,1.0
+ties,0,,found,"['clear', 'between', 'concluding']",0.0,1.0
+between,0,,ties,['campaign'],0.0,1.0
+Trump,1,ORG,campaign,"[""'s""]",0.0,1.0
+'s,0,,Trump,[],0.0,1.0
+campaign,0,,between,"['Trump', 'and', 'Russia']",0.0,1.0
+and,0,,campaign,[],0.0,1.0
+Russia,1,GPE,campaign,[],0.0,1.0
+concluding,0,,ties,['had'],0.0,1.0
+that,0,,had,[],0.0,1.0
+Trump,1,ORG,chairman,"[""'s""]",0.0,1.0
+'s,0,,Trump,[],0.0,1.0
+campaign,0,,chairman,[],0.0,1.0
+chairman,0,,had,"['Trump', 'campaign']",0.0,1.0
+had,0,,had,[],0.0,1.0
+had,0,,concluding,"['that', 'chairman', 'had', 'contact', 'and', 'were']",0.0,1.0
+regular,0,,contact,[],0.0,1.0
+contact,0,,had,"['regular', 'with']",0.0,1.0
+with,0,,contact,['officer'],0.0,1.0
+a,0,,officer,[],0.0,1.0
+Russian,1,NORP,officer,[],0.0,1.0
+intelligence,0,,officer,[],0.0,1.0
+officer,0,,with,"['a', 'Russian', 'intelligence']",0.0,1.0
+and,0,,had,[],0.0,1.0
+that,0,,were,[],0.0,1.0
+other,0,,associates,[],0.0,1.0
+Trump,1,ORG,associates,[],0.0,1.0
+associates,0,,were,"['other', 'Trump']",0.0,1.0
+were,0,,had,"['that', 'associates', 'eager']",0.0,1.0
+eager,0,,were,['exploit'],2.0,1.0
+to,0,,exploit,[],0.0,1.0
+exploit,0,,eager,"['to', 'aid']",-2.0,1.0
+the,0,,Kremlin,[],0.0,1.0
+Kremlin,1,ORG,aid,"['the', ""'s""]",0.0,1.0
+'s,0,,Kremlin,[],0.0,1.0
+aid,0,,exploit,['Kremlin'],0.0,1.0
+Former,0,,counsel,[],0.0,-9.0
+special,0,,counsel,[],0.0,-9.0
+counsel,0,,establish,"['Former', 'special', 'Mueller', 'charged']",0.0,-9.0
+Robert,1,PERSON,Mueller,[],0.0,-9.0
+Mueller,1,PERSON,counsel,['Robert'],0.0,-9.0
+who,0,,charged,[],0.0,-9.0
+was,0,,charged,[],0.0,-9.0
+charged,0,,counsel,"['who', 'was', 'with']",-3.0,-9.0
+with,0,,charged,['investigating'],0.0,-9.0
+further,0,,investigating,[],0.0,-9.0
+investigating,0,,with,"['further', 'links']",0.0,-9.0
+the,0,,links,[],0.0,-9.0
+links,0,,investigating,"['the', 'between']",0.0,-9.0
+between,0,,links,['Trump'],0.0,-9.0
+Trump,1,ORG,between,"['and', 'Russia']",0.0,-9.0
+and,0,,Trump,[],0.0,-9.0
+Russia,1,GPE,Trump,[],0.0,-9.0
+did,0,,establish,[],0.0,-9.0
+not,0,,establish,[],0.0,-9.0
+establish,0,,establish,"['counsel', 'did', 'not', 'conspiracy', 'but', 'concluded', '.']",0.0,-9.0
+a,0,,conspiracy,[],0.0,-9.0
+criminal,0,,conspiracy,[],-3.0,-9.0
+conspiracy,0,,establish,"['a', 'criminal', 'between']",-3.0,-9.0
+between,0,,conspiracy,['Russia'],0.0,-9.0
+Russia,1,GPE,between,"['and', 'campaign']",0.0,-9.0
+and,0,,Russia,[],0.0,-9.0
+the,0,,campaign,[],0.0,-9.0
+Trump,1,ORG,campaign,[],0.0,-9.0
+campaign,0,,Russia,"['the', 'Trump']",0.0,-9.0
+but,0,,establish,[],0.0,-9.0
+concluded,0,,establish,['was'],0.0,-9.0
+that,0,,was,[],0.0,-9.0
+Russian,1,NORP,interference,[],0.0,-9.0
+interference,0,,was,['Russian'],0.0,-9.0
+was,0,,concluded,"['that', 'interference', 'sweeping']",0.0,-9.0
+sweeping,0,,was,"['and', 'systematic']",0.0,-9.0
+and,0,,sweeping,[],0.0,-9.0
+systematic,0,,sweeping,[],0.0,-9.0
+His,0,,investigation,[],0.0,-5.0
+investigation,0,,resulted,['His'],0.0,-5.0
+resulted,0,,resulted,"['investigation', 'in', '.']",0.0,-5.0
+in,0,,resulted,['charges'],0.0,-5.0
+criminal,0,,charges,[],-3.0,-5.0
+charges,0,,in,"['criminal', 'against']",-2.0,-5.0
+against,0,,charges,['people'],0.0,-5.0
+34,1,CARDINAL,people,[],0.0,-5.0
+people,0,,against,"['34', 'and', 'entities']",0.0,-5.0
+and,0,,people,[],0.0,-5.0
+three,1,CARDINAL,entities,[],0.0,-5.0
+entities,0,,people,"['three', 'including']",0.0,-5.0
+including,0,,entities,['chair'],0.0,-5.0
+26,1,CARDINAL,Trump,[],0.0,-5.0
+Russians,1,NORP,Trump,[],0.0,-5.0
+Trump,1,ORG,chair,"['26', 'Russians', ""'s""]",0.0,-5.0
+'s,0,,Trump,[],0.0,-5.0
+former,0,,chair,[],0.0,-5.0
+campaign,0,,chair,[],0.0,-5.0
+chair,0,,including,"['Trump', 'former', 'campaign', 'and', 'adviser']",0.0,-5.0
+and,0,,chair,[],0.0,-5.0
+national,0,,security,[],0.0,-5.0
+security,0,,adviser,['national'],0.0,-5.0
+adviser,0,,chair,['security'],0.0,-5.0
+Representatives,0,,respond,['for'],0.0,0.0
+for,0,,Representatives,['Trump'],0.0,0.0
+Trump,1,ORG,for,[],0.0,0.0
+did,0,,respond,[],0.0,0.0
+not,0,,respond,[],0.0,0.0
+respond,0,,respond,"['Representatives', 'did', 'not', 'to', '.']",0.0,0.0
+to,0,,respond,['requests'],0.0,0.0
+requests,0,,to,['for'],0.0,0.0
+for,0,,requests,['comment'],0.0,0.0
+comment,0,,for,[],0.0,0.0
+But,0,,defended,[],0.0,0.0
+Trump,1,ORG,attorney,[],0.0,0.0
+attorney,0,,Habba,['Trump'],0.0,0.0
+Alina,1,PERSON,Habba,[],0.0,0.0
+Habba,1,PERSON,defended,"['attorney', 'Alina']",0.0,0.0
+defended,0,,defended,"['But', 'Habba', 'approach', 'telling', '.']",0.0,0.0
+his,0,,approach,[],0.0,0.0
+approach,0,,defended,"['his', 'on']",0.0,0.0
+on,0,,approach,['Newsmax'],0.0,0.0
+Newsmax,1,ORG,on,[],0.0,0.0
+telling,0,,defended,"['network', 'coming']",0.0,0.0
+the,0,,network,[],0.0,0.0
+network,0,,telling,['the'],0.0,0.0
+more,0,,suits,[],0.0,0.0
+suits,0,,coming,['more'],0.0,0.0
+were,0,,coming,[],0.0,0.0
+coming,0,,telling,"['suits', 'were', 'soon']",0.0,0.0
+soon,0,,coming,[],0.0,0.0
+We,0,,have,[],0.0,0.0
+have,0,,said,"['We', 'suit']",0.0,0.0
+another,0,,suit,[],0.0,0.0
+suit,0,,have,"['another', 'filed']",0.0,0.0
+being,0,,filed,[],0.0,0.0
+filed,0,,suit,"['being', 'shortly']",0.0,0.0
+shortly,0,,filed,[],0.0,0.0
+she,0,,said,[],0.0,0.0
+said,0,,said,"['have', 'she', '.']",0.0,0.0
+And,0,,going,[],0.0,-2.0
+anybody,0,,going,['going'],0.0,-2.0
+that,0,,going,[],0.0,-2.0
+'s,0,,going,[],0.0,-2.0
+going,0,,anybody,"['that', ""'s"", 'try']",0.0,-2.0
+to,0,,try,[],0.0,-2.0
+try,0,,going,"['to', 'and', 'make']",0.0,-2.0
+and,0,,try,[],0.0,-2.0
+make,0,,try,"['up', 'stories', 'sitting']",0.0,-2.0
+up,0,,make,[],0.0,-2.0
+malicious,0,,stories,[],0.0,-2.0
+stories,0,,make,"['malicious', 'about']",0.0,-2.0
+about,0,,stories,['him'],0.0,-2.0
+him,0,,about,[],0.0,-2.0
+while,0,,sitting,[],0.0,-2.0
+he,0,,sitting,[],0.0,-2.0
+was,0,,sitting,[],0.0,-2.0
+sitting,0,,make,"['while', 'he', 'was', 'as', 'prior', 'or']",0.0,-2.0
+as,0,,sitting,['president'],0.0,-2.0
+president,0,,as,[],0.0,-2.0
+prior,0,,sitting,['to'],0.0,-2.0
+to,0,,prior,['presidency'],0.0,-2.0
+his,0,,presidency,[],0.0,-2.0
+presidency,0,,to,['his'],0.0,-2.0
+or,0,,sitting,[],0.0,-2.0
+now,0,,going,[],0.0,-2.0
+is,0,,going,[],0.0,-2.0
+going,0,,going,"['And', 'anybody', 'now', 'is', 'sued', '.']",0.0,-2.0
+to,0,,sued,[],0.0,-2.0
+be,0,,sued,[],0.0,-2.0
+sued,0,,going,"['to', 'be']",-2.0,-2.0
+Trump,1,ORG,using,[],0.0,0.0
+meanwhile,0,,using,[],0.0,0.0
+was,0,,using,[],0.0,0.0
+already,0,,using,[],0.0,0.0
+using,0,,using,"['Trump', 'meanwhile', 'was', 'already', 'filing', 'rile', '.']",0.0,0.0
+the,0,,filing,[],0.0,0.0
+filing,0,,using,['the'],0.0,0.0
+to,0,,rile,[],0.0,0.0
+rile,0,,using,"['to', 'up', 'crowds', 'at', 'night']",0.0,0.0
+up,0,,rile,[],0.0,0.0
+his,0,,crowds,[],0.0,0.0
+crowds,0,,rile,['his'],0.0,0.0
+at,0,,rile,['rally'],0.0,0.0
+a,0,,rally,[],0.0,0.0
+rally,0,,at,"['a', 'in']",0.0,0.0
+in,0,,rally,['Georgia'],0.0,0.0
+Georgia,1,GPE,in,[],0.0,0.0
+Saturday,1,DATE,night,[],0.0,0.0
+night,1,TIME,rile,['Saturday'],0.0,0.0
+To,0,,fight,[],0.0,-7.0
+fight,0,,filed,"['To', 'back', 'against', 'and', 'lies']",-1.0,-7.0
+back,0,,fight,[],0.0,-7.0
+against,0,,fight,['hoaxes'],0.0,-7.0
+this,0,,establishment,[],0.0,-7.0
+corrupt,0,,establishment,[],-3.0,-7.0
+establishment,0,,hoaxes,"['this', 'corrupt', ""'s""]",0.0,-7.0
+'s,0,,establishment,[],0.0,-7.0
+relentless,0,,hoaxes,[],-1.0,-7.0
+hoaxes,0,,against,"['establishment', 'relentless']",0.0,-7.0
+and,0,,fight,[],0.0,-7.0
+lies,0,,fight,['week'],0.0,-7.0
+this,1,DATE,week,[],0.0,-7.0
+week,1,DATE,lies,['this'],0.0,-7.0
+I,0,,filed,[],0.0,-7.0
+filed,0,,filed,"['fight', 'I', 'lawsuit', 'hold']",0.0,-7.0
+a,0,,lawsuit,[],0.0,-7.0
+historic,0,,lawsuit,[],0.0,-7.0
+lawsuit,0,,filed,"['a', 'historic']",-2.0,-7.0
+to,0,,hold,[],0.0,-7.0
+hold,0,,filed,"['to', 'accountable']",0.0,-7.0
+them,0,,accountable,[],0.0,-7.0
+accountable,0,,hold,"['them', 'for']",0.0,-7.0
+for,0,,accountable,['Russia'],0.0,-7.0
+the,0,,Russia,[],0.0,-7.0
+Russia,1,GPE,Russia,[],0.0,-7.0
+Russia,1,GPE,Russia,['Russia'],0.0,-7.0
+Russia,1,GPE,for,"['the', 'Russia']",0.0,-7.0
+hoax,0,,Trump,[],-2.0,0.0
+Trump,1,ORG,said,['hoax'],0.0,0.0
+said,0,,said,"['Trump', 'to', '.']",0.0,0.0
+to,0,,said,['cheers'],0.0,0.0
+cheers,0,,to,[],2.0,0.0
+His,0,,mention,[],0.0,2.0
+mention,0,,prompted,"['His', 'of']",0.0,2.0
+of,0,,mention,['Clinton'],0.0,2.0
+Clinton,1,PERSON,of,[],0.0,2.0
+prompted,0,,prompted,"['mention', 'applause', '!']",0.0,2.0
+especially,0,,loud,[],0.0,2.0
+loud,0,,applause,['especially'],0.0,2.0
+applause,0,,prompted,"['loud', 'and', 'revival']",2.0,2.0
+and,0,,applause,[],0.0,2.0
+a,0,,revival,[],0.0,2.0
+revival,0,,applause,"['a', 'of']",0.0,2.0
+of,0,,revival,['Lock'],0.0,2.0
+the,0,,Lock,[],0.0,2.0
+Lock,1,PERSON,of,"['the', 'her', 'up']",0.0,2.0
+her,0,,Lock,[],0.0,2.0
+up,0,,Lock,[],0.0,2.0
+chant,0,,chant,"['was', '.']",0.0,0.0
+that,0,,was,[],0.0,0.0
+was,0,,chant,"['that', 'feature']",0.0,0.0
+a,0,,feature,[],0.0,0.0
+defining,0,,feature,[],0.0,0.0
+feature,0,,was,"['a', 'defining', 'of']",0.0,0.0
+of,0,,feature,['campaign'],0.0,0.0
+his,0,,campaign,[],0.0,0.0
+2016,1,DATE,campaign,[],0.0,0.0
+campaign,0,,of,"['his', '2016']",0.0,0.0
+In,0,,lend,['addition'],0.0,3.0
+addition,0,,In,['to'],0.0,3.0
+to,0,,addition,['serving'],0.0,3.0
+serving,0,,to,['as'],0.0,3.0
+as,0,,serving,['cudgel'],0.0,3.0
+a,0,,cudgel,[],0.0,3.0
+useful,0,,cudgel,[],2.0,3.0
+political,0,,cudgel,[],0.0,3.0
+cudgel,0,,as,"['a', 'useful', 'political']",0.0,3.0
+Trump,1,ORG,effort,"[""'s""]",0.0,3.0
+'s,0,,Trump,[],0.0,3.0
+effort,0,,lend,"['Trump', 'comes']",0.0,3.0
+which,0,,comes,[],0.0,3.0
+comes,0,,effort,"['which', 'mulling']",0.0,3.0
+as,0,,mulling,[],0.0,3.0
+he,0,,mulling,[],0.0,3.0
+is,0,,mulling,[],0.0,3.0
+mulling,0,,comes,"['as', 'he', 'is', 'run']",0.0,3.0
+another,0,,run,[],0.0,3.0
+run,0,,mulling,"['another', 'for']",0.0,3.0
+for,0,,run,['House'],0.0,3.0
+the,1,ORG,House,[],0.0,3.0
+White,1,ORG,House,[],0.0,3.0
+House,1,ORG,for,"['the', 'White']",0.0,3.0
+could,0,,lend,[],0.0,3.0
+lend,0,,said,"['In', 'effort', 'could', 'imprimatur', 'campaign']",0.0,3.0
+the,0,,imprimatur,[],0.0,3.0
+imprimatur,0,,lend,"['the', 'of']",0.0,3.0
+of,0,,imprimatur,['credibility'],0.0,3.0
+credibility,0,,of,[],0.0,3.0
+to,0,,campaign,[],0.0,3.0
+campaign,0,,lend,"['to', 'grievances']",0.0,3.0
+trail,0,,grievances,[],0.0,3.0
+grievances,0,,campaign,['trail'],0.0,3.0
+said,0,,said,"['lend', 'Gillers', '.']",0.0,3.0
+Stephen,1,PERSON,Gillers,[],0.0,3.0
+Gillers,1,PERSON,said,"['Stephen', 'professor']",0.0,3.0
+a,0,,professor,[],0.0,3.0
+New,1,ORG,York,[],0.0,3.0
+York,1,ORG,University,['New'],0.0,3.0
+University,1,ORG,professor,['York'],0.0,3.0
+professor,0,,Gillers,"['a', 'University', 'of']",0.0,3.0
+of,0,,professor,['ethics'],0.0,3.0
+legal,0,,ethics,[],1.0,3.0
+ethics,0,,of,['legal'],0.0,3.0
+To,0,,adds,"['public', 'fact']",0.0,-1.0
+the,0,,public,[],0.0,-1.0
+unaware,0,,public,[],-2.0,-1.0
+public,0,,To,"['the', 'unaware']",0.0,-1.0
+the,0,,fact,[],0.0,-1.0
+fact,0,,To,"['the', 'repackaged']",0.0,-1.0
+that,0,,repackaged,[],0.0,-1.0
+grievances,0,,repackaged,[],0.0,-1.0
+are,0,,repackaged,[],0.0,-1.0
+repackaged,0,,fact,"['that', 'grievances', 'are', 'as']",0.0,-1.0
+as,0,,repackaged,['claims'],0.0,-1.0
+legal,0,,claims,[],1.0,-1.0
+claims,0,,as,['legal'],0.0,-1.0
+adds,0,,adds,"['To', 'credibility', 'to', 'said', '.']",0.0,-1.0
+credibility,0,,adds,[],0.0,-1.0
+to,0,,adds,['force'],0.0,-1.0
+the,0,,force,[],0.0,-1.0
+force,0,,to,"['the', 'of']",0.0,-1.0
+of,0,,force,['grievances'],0.0,-1.0
+those,0,,grievances,[],0.0,-1.0
+grievances,0,,of,['those'],0.0,-1.0
+Gillers,0,,said,[],0.0,-1.0
+said,0,,adds,['Gillers'],0.0,-1.0
+Anyone,0,,be,['pays'],0.0,-3.0
+who,0,,pays,[],0.0,-3.0
+pays,0,,Anyone,"['who', 'attention', 'to']",0.0,-3.0
+attention,0,,pays,[],0.0,-3.0
+to,0,,pays,['goes'],0.0,-3.0
+what,0,,goes,[],0.0,-3.0
+goes,0,,to,"['what', 'on', 'in']",0.0,-3.0
+on,0,,goes,[],0.0,-3.0
+in,0,,goes,['courts'],0.0,-3.0
+the,0,,courts,[],0.0,-3.0
+courts,0,,in,['the'],0.0,-3.0
+will,0,,be,[],0.0,-3.0
+be,0,,be,"['Anyone', 'will', 'able', '.']",0.0,-3.0
+able,0,,be,['see'],0.0,-3.0
+to,0,,see,[],0.0,-3.0
+see,0,,able,"['to', 'through', 'as']",0.0,-3.0
+through,0,,see,['claims'],0.0,-3.0
+these,0,,claims,[],0.0,-3.0
+claims,0,,through,['these'],0.0,-3.0
+as,0,,see,['claims'],0.0,-3.0
+claims,0,,as,"['of', 'in']",0.0,-3.0
+of,0,,claims,['victimization'],0.0,-3.0
+political,0,,victimization,[],0.0,-3.0
+victimization,0,,of,['political'],-3.0,-3.0
+in,0,,claims,['form'],0.0,-3.0
+another,0,,form,[],0.0,-3.0
+form,0,,in,['another'],0.0,-3.0
+But,0,,pay,[],0.0,-1.0
+the,0,,public,[],0.0,-1.0
+public,0,,pay,"['the', 'by']",0.0,-1.0
+by,0,,public,"['and', 'large']",0.0,-1.0
+and,0,,by,[],0.0,-1.0
+large,0,,by,[],0.0,-1.0
+does,0,,pay,[],0.0,-1.0
+not,0,,pay,[],0.0,-1.0
+pay,0,,pay,"['But', 'public', 'does', 'not', 'attention', 'to', '.']",-1.0,-1.0
+attention,0,,pay,[],0.0,-1.0
+to,0,,pay,['validity'],0.0,-1.0
+the,0,,validity,[],0.0,-1.0
+validity,0,,to,"['the', 'of']",0.0,-1.0
+of,0,,validity,['claims'],0.0,-1.0
+the,0,,claims,[],0.0,-1.0
+claims,0,,of,['the'],0.0,-1.0
+Last,1,DATE,year,[],0.0,-5.0
+year,1,DATE,took,['Last'],0.0,-5.0
+Trump,1,PERSON,took,[],0.0,-5.0
+took,0,,took,"['year', 'Trump', 'suits', 'against', '.']",0.0,-5.0
+similar,0,,suits,[],0.0,-5.0
+action,0,,suits,[],0.0,-5.0
+filing,0,,suits,[],0.0,-5.0
+suits,0,,took,"['similar', 'action', 'filing']",0.0,-5.0
+against,0,,took,['three'],0.0,-5.0
+three,1,CARDINAL,against,['of'],0.0,-5.0
+of,0,,three,['companies'],0.0,-5.0
+the,0,,country,[],0.0,-5.0
+country,0,,companies,"['the', ""'s""]",0.0,-5.0
+'s,0,,country,[],0.0,-5.0
+biggest,0,,companies,[],0.0,-5.0
+tech,0,,companies,[],0.0,-5.0
+companies,0,,of,"['country', 'biggest', 'tech', 'claiming']",0.0,-5.0
+claiming,0,,companies,['censored'],0.0,-5.0
+he,0,,censored,"['and', 'conservatives']",0.0,-5.0
+and,0,,he,[],0.0,-5.0
+other,0,,conservatives,[],0.0,-5.0
+conservatives,0,,he,['other'],0.0,-5.0
+had,0,,censored,[],0.0,-5.0
+been,0,,censored,[],0.0,-5.0
+wrongfully,0,,censored,[],-2.0,-5.0
+censored,0,,claiming,"['he', 'had', 'been', 'wrongfully', 'suspended']",-2.0,-5.0
+after,0,,suspended,[],0.0,-5.0
+his,0,,accounts,[],0.0,-5.0
+accounts,0,,suspended,['his'],0.0,-5.0
+were,0,,suspended,[],0.0,-5.0
+suspended,0,,censored,"['after', 'accounts', 'were']",-1.0,-5.0
+It,0,,'s,[],0.0,0.0
+'s,0,,'s,"['It', 'tactic', '.']",0.0,0.0
+a,0,,tactic,[],0.0,0.0
+tactic,0,,'s,"['a', 'used']",0.0,0.0
+Trump,1,ORG,used,[],0.0,0.0
+has,0,,used,[],0.0,0.0
+used,0,,tactic,"['Trump', 'has', 'again']",0.0,0.0
+again,0,,used,"['and', 'again']",0.0,0.0
+and,0,,again,[],0.0,0.0
+again,0,,again,[],0.0,0.0
+In,0,,In,"['casino', '.']",0.0,-5.0
+the,0,,casino,[],0.0,-5.0
+real,0,,estate,[],0.0,-5.0
+estate,0,,casino,['real'],0.0,-5.0
+casino,0,,In,"['the', 'estate', 'and', 'industries', 'made']",0.0,-5.0
+and,0,,casino,[],0.0,-5.0
+other,0,,industries,[],0.0,-5.0
+industries,0,,casino,['other'],0.0,-5.0
+where,0,,made,[],0.0,-5.0
+the,0,,president,[],0.0,-5.0
+former,0,,president,[],0.0,-5.0
+president,0,,made,"['the', 'former']",0.0,-5.0
+made,0,,casino,"['where', 'president', 'fortunes', 'and', 'lost']",0.0,-5.0
+fortunes,0,,made,[],0.0,-5.0
+and,0,,made,[],0.0,-5.0
+lost,0,,made,"['them', 'use', 'was']",-3.0,-5.0
+them,0,,lost,[],0.0,-5.0
+Trump,1,ORG,use,"[""'s""]",0.0,-5.0
+'s,0,,Trump,[],0.0,-5.0
+use,0,,lost,"['Trump', 'of']",0.0,-5.0
+of,0,,use,['lawsuits'],0.0,-5.0
+lawsuits,0,,of,[],-2.0,-5.0
+as,0,,was,[],0.0,-5.0
+a,0,,weapon,[],0.0,-5.0
+business,0,,weapon,[],0.0,-5.0
+weapon,0,,was,"['a', 'business']",0.0,-5.0
+was,0,,lost,"['as', 'weapon', 'legendary']",0.0,-5.0
+legendary,0,,was,[],0.0,-5.0
+He,0,,sued,[],0.0,-6.0
+sued,0,,sued,"['He', 'or', 'threatened', '.']",-2.0,-6.0
+or,0,,sued,[],0.0,-6.0
+threatened,0,,sued,['sue'],-2.0,-6.0
+to,0,,sue,[],0.0,-6.0
+sue,0,,threatened,"['to', 'authorities']",-2.0,-6.0
+contractors,0,,authorities,[],0.0,-6.0
+business,0,,partners,[],0.0,-6.0
+partners,0,,authorities,['business'],0.0,-6.0
+tax,0,,authorities,[],0.0,-6.0
+authorities,0,,sue,"['contractors', 'partners', 'tax', 'and', 'media']",0.0,-6.0
+and,0,,authorities,[],0.0,-6.0
+the,0,,media,[],0.0,-6.0
+media,0,,authorities,['the'],0.0,-6.0
+Trump,1,ORG,loved,[],0.0,0.0
+loved,0,,said,"['Trump', 'sue']",3.0,0.0
+to,0,,sue,[],0.0,0.0
+sue,0,,loved,"['to', 'parties']",-2.0,0.0
+especially,0,,parties,[],0.0,0.0
+parties,0,,sue,"['especially', 'afford']",0.0,0.0
+that,0,,afford,[],0.0,0.0
+could,0,,afford,[],0.0,0.0
+not,0,,afford,[],0.0,0.0
+afford,0,,parties,"['that', 'could', 'not', 'defense']",0.0,0.0
+a,0,,defense,[],0.0,0.0
+legal,0,,defense,[],1.0,0.0
+defense,0,,afford,"['a', 'legal']",0.0,0.0
+said,0,,said,"['loved', 'turned', '.']",0.0,0.0
+Barbara,1,PERSON,Res,[],0.0,0.0
+Res,1,PERSON,executive,['Barbara'],0.0,0.0
+a,0,,executive,[],0.0,0.0
+former,0,,longtime,[],0.0,0.0
+longtime,0,,executive,['former'],0.0,0.0
+Trump,1,ORG,Organization,[],0.0,0.0
+Organization,1,ORG,executive,['Trump'],0.0,0.0
+executive,0,,turned,"['Res', 'a', 'longtime', 'Organization']",0.0,0.0
+turned,0,,said,"['executive', 'critic']",0.0,0.0
+critic,0,,turned,[],-2.0,0.0
+She,0,,said,[],0.0,0.0
+said,0,,said,"['She', 'was', '.']",0.0,0.0
+one,1,CARDINAL,tactic,[],0.0,0.0
+legal,0,,tactic,[],1.0,0.0
+tactic,0,,was,"['one', 'legal', 'turned']",0.0,0.0
+he,0,,turned,[],0.0,0.0
+turned,0,,tactic,"['he', 'to']",0.0,0.0
+to,0,,turned,[],0.0,0.0
+often,0,,was,[],0.0,0.0
+was,0,,said,"['tactic', 'often', 'suit']",0.0,0.0
+the,0,,suit,[],0.0,0.0
+preventive,0,,suit,[],0.0,0.0
+strike,0,,suit,[],-1.0,0.0
+suit,0,,was,"['the', 'preventive', 'strike', 'weaken']",0.0,0.0
+to,0,,weaken,[],0.0,0.0
+weaken,0,,suit,"['to', 'rivals', 'and', 'create']",0.0,0.0
+rivals,0,,weaken,[],0.0,0.0
+and,0,,weaken,[],0.0,0.0
+create,0,,weaken,['impression'],0.0,0.0
+the,0,,impression,[],0.0,0.0
+impression,0,,create,"['the', 'was']",0.0,0.0
+he,0,,was,[],0.0,0.0
+was,0,,impression,"['he', 'party', 'acted']",0.0,0.0
+the,0,,party,[],0.0,0.0
+aggrieved,0,,party,[],0.0,0.0
+party,0,,was,"['the', 'aggrieved']",0.0,0.0
+before,0,,acted,[],0.0,0.0
+they,0,,acted,[],0.0,0.0
+acted,0,,was,"['before', 'they']",0.0,0.0
+Trump,1,ORG,perception,"[""'s""]",0.0,-4.0
+'s,0,,Trump,[],0.0,-4.0
+perception,0,,is,"['Trump', 'and', 'that']",0.0,-4.0
+and,0,,perception,[],0.0,-4.0
+that,0,,perception,['of'],0.0,-4.0
+of,0,,that,['people'],0.0,-4.0
+many,0,,people,[],0.0,-4.0
+people,0,,of,['many'],0.0,-4.0
+is,0,,said,"['perception', 'has']",0.0,-4.0
+that,0,,has,[],0.0,-4.0
+the,0,,person,[],0.0,-4.0
+first,1,ORDINAL,person,[],0.0,-4.0
+person,0,,has,"['the', 'first', 'sue']",0.0,-4.0
+to,0,,sue,[],0.0,-4.0
+sue,0,,person,['to'],-2.0,-4.0
+has,0,,is,"['that', 'person']",0.0,-4.0
+a,0,,Res,[],0.0,-4.0
+legitimate,0,,complaint,[],0.0,-4.0
+complaint,0,,Res,['legitimate'],-2.0,-4.0
+Res,1,PERSON,said,"['a', 'complaint']",0.0,-4.0
+said,0,,said,"['is', 'Res', '.']",0.0,-4.0
+Indeed,0,,Indeed,"['defaulted', '.']",0.0,-5.0
+when,0,,defaulted,[],0.0,-5.0
+Trump,1,ORG,defaulted,[],0.0,-5.0
+defaulted,0,,Indeed,"['when', 'Trump', 'on', 'during']",0.0,-5.0
+on,0,,defaulted,['loan'],0.0,-5.0
+a,0,,loan,[],0.0,-5.0
+giant,0,,loan,[],0.0,-5.0
+Deutsche,1,ORG,Bank,[],0.0,-5.0
+Bank,1,ORG,loan,['Deutsche'],0.0,-5.0
+loan,0,,on,"['a', 'giant', 'Bank', 'for']",0.0,-5.0
+for,0,,loan,['hotel'],0.0,-5.0
+his,0,,hotel,[],0.0,-5.0
+Chicago,1,GPE,hotel,[],0.0,-5.0
+hotel,0,,for,"['his', 'Chicago', 'and', 'tower']",0.0,-5.0
+and,0,,hotel,[],0.0,-5.0
+condo,0,,tower,[],0.0,-5.0
+tower,0,,hotel,['condo'],0.0,-5.0
+during,0,,defaulted,['crisis'],0.0,-5.0
+the,0,,crisis,[],0.0,-5.0
+2008,1,DATE,crisis,[],0.0,-5.0
+financial,0,,crisis,[],0.0,-5.0
+crisis,0,,during,"['the', '2008', 'financial', 'wait']",-3.0,-5.0
+he,0,,wait,[],0.0,-5.0
+did,0,,wait,[],0.0,-5.0
+n't,0,,wait,[],0.0,-5.0
+wait,0,,crisis,"['he', 'did', ""n't"", 'sued']",0.0,-5.0
+to,0,,sued,[],0.0,-5.0
+be,0,,sued,[],0.0,-5.0
+sued,0,,wait,"['to', 'be']",-2.0,-5.0
+Instead,0,,filed,[],0.0,-8.0
+he,0,,filed,[],0.0,-8.0
+filed,0,,filed,"['Instead', 'he', 'complaint', '.']",0.0,-8.0
+a,0,,complaint,[],0.0,-8.0
+complaint,0,,filed,"['a', 'accusing']",-2.0,-8.0
+accusing,0,,complaint,['lender'],-2.0,-8.0
+the,0,,lender,[],0.0,-8.0
+lender,0,,accusing,"['the', 'of']",0.0,-8.0
+of,0,,lender,['practices'],0.0,-8.0
+predatory,0,,lending,[],-2.0,-8.0
+lending,0,,practices,['predatory'],0.0,-8.0
+practices,0,,of,"['lending', 'hurt']",0.0,-8.0
+that,0,,hurt,[],0.0,-8.0
+hurt,0,,practices,"['that', 'reputation', 'and', 'helped']",-2.0,-8.0
+his,0,,reputation,[],0.0,-8.0
+reputation,0,,hurt,['his'],0.0,-8.0
+and,0,,hurt,[],0.0,-8.0
+helped,0,,hurt,['trigger'],0.0,-8.0
+trigger,0,,helped,['depression'],0.0,-8.0
+the,0,,depression,[],0.0,-8.0
+global,0,,depression,[],0.0,-8.0
+depression,0,,trigger,"['the', 'global']",0.0,-8.0
+Instead,0,,of,[],0.0,0.0
+of,0,,argued,"['Instead', 'paying']",0.0,0.0
+paying,0,,of,['bank'],0.0,0.0
+the,0,,bank,[],0.0,0.0
+bank,0,,paying,['the'],0.0,0.0
+he,0,,argued,[],0.0,0.0
+argued,0,,argued,"['of', 'he', 'paying', '.']",0.0,0.0
+the,0,,bank,[],0.0,0.0
+bank,0,,paying,['the'],0.0,0.0
+should,0,,paying,[],0.0,0.0
+be,0,,paying,[],0.0,0.0
+paying,0,,argued,"['bank', 'should', 'be', 'him']",0.0,0.0
+him,0,,paying,[],0.0,0.0
+It,0,,was,[],0.0,5.0
+was,0,,was,"['It', 'argument', '.']",0.0,5.0
+a,0,,argument,[],0.0,5.0
+novel,0,,argument,[],2.0,5.0
+argument,0,,was,"['a', 'novel', 'and', 'one']",0.0,5.0
+and,0,,argument,[],0.0,5.0
+one,0,,argument,['succeeded'],0.0,5.0
+that,0,,succeeded,[],0.0,5.0
+ultimately,0,,succeeded,[],0.0,5.0
+succeeded,0,,one,"['that', 'ultimately']",3.0,5.0
+Deutsche,1,ORG,Bank,[],0.0,1.0
+Bank,1,ORG,ended,['Deutsche'],0.0,1.0
+ended,0,,ended,"['Bank', 'up', 'forgiving', 'extending', '.']",0.0,1.0
+up,0,,ended,[],0.0,1.0
+forgiving,0,,ended,['some'],1.0,1.0
+some,0,,forgiving,['of'],0.0,1.0
+of,0,,some,['loan'],0.0,1.0
+his,0,,loan,[],0.0,1.0
+loan,0,,of,['his'],0.0,1.0
+then,0,,extending,[],0.0,1.0
+extending,0,,ended,"['then', 'him', 'millions']",0.0,1.0
+him,0,,extending,[],0.0,1.0
+hundreds,1,MONEY,millions,[],0.0,1.0
+of,1,MONEY,millions,[],0.0,1.0
+millions,1,MONEY,extending,"['hundreds', 'of', 'of', 'in', 'in']",0.0,1.0
+of,1,MONEY,millions,['dollars'],0.0,1.0
+dollars,1,MONEY,of,[],0.0,1.0
+in,0,,millions,['loans'],0.0,1.0
+new,0,,loans,[],0.0,1.0
+loans,0,,in,['new'],0.0,1.0
+in,0,,millions,['years'],0.0,1.0
+the,1,DATE,years,[],0.0,1.0
+coming,1,DATE,years,[],0.0,1.0
+years,1,DATE,in,"['the', 'coming']",0.0,1.0
+As,0,,preparing,[],0.0,-2.0
+a,0,,columnist,[],0.0,-2.0
+New,1,ORG,York,[],0.0,-2.0
+York,1,ORG,Times,['New'],0.0,-2.0
+Times,1,ORG,columnist,['York'],0.0,-2.0
+columnist,0,,preparing,"['a', 'Times']",0.0,-2.0
+was,0,,preparing,[],0.0,-2.0
+preparing,0,,assured,"['As', 'columnist', 'was', 'write', ':']",0.0,-2.0
+to,0,,write,[],0.0,-2.0
+write,0,,preparing,"['to', 'about']",0.0,-2.0
+about,0,,write,['effort'],0.0,-2.0
+the,0,,effort,[],0.0,-2.0
+effort,0,,about,"['the', 'received']",0.0,-2.0
+he,0,,received,[],0.0,-2.0
+received,0,,effort,"['he', 'note', 'from']",0.0,-2.0
+a,0,,note,[],0.0,-2.0
+note,0,,received,['a'],0.0,-2.0
+from,0,,received,['one'],0.0,-2.0
+one,0,,from,['of'],0.0,-2.0
+of,0,,one,['lawyers'],0.0,-2.0
+Trump,1,ORG,lawyers,"[""'s""]",0.0,-2.0
+'s,0,,Trump,[],0.0,-2.0
+lawyers,0,,of,['Trump'],0.0,-2.0
+Please,0,,assured,[],1.0,-2.0
+be,0,,assured,[],0.0,-2.0
+assured,0,,assured,"['preparing', 'Please', 'be', 'have', '.']",0.0,-2.0
+that,0,,have,[],0.0,-2.0
+if,0,,is,[],0.0,-2.0
+your,0,,article,[],0.0,-2.0
+article,0,,is,['your'],0.0,-2.0
+is,0,,have,"['if', 'article', 'not', 'correct']",0.0,-2.0
+not,0,,is,[],0.0,-2.0
+factually,0,,correct,[],0.0,-2.0
+correct,0,,is,['factually'],0.0,-2.0
+we,0,,have,[],0.0,-2.0
+will,0,,have,[],0.0,-2.0
+have,0,,assured,"['that', 'is', 'we', 'will', 'choice']",0.0,-2.0
+no,0,,choice,[],-1.0,-2.0
+choice,0,,have,"['no', 'but']",0.0,-2.0
+but,0,,choice,['sue'],0.0,-2.0
+to,0,,sue,[],0.0,-2.0
+sue,0,,but,"['to', 'you']",-2.0,-2.0
+you,0,,sue,[],0.0,-2.0
+To,0,,'s,['journalists'],0.0,-2.0
+many,0,,journalists,[],0.0,-2.0
+journalists,0,,To,['many'],0.0,-2.0
+it,0,,'s,[],0.0,-2.0
+'s,0,,'s,"['To', 'it', 'threat', '.']",0.0,-2.0
+a,0,,threat,[],0.0,-2.0
+familiar,0,,threat,[],0.0,-2.0
+threat,0,,'s,"['a', 'familiar', 'delivered']",-2.0,-2.0
+delivered,0,,threat,"['with', 'and', 'repeated']",0.0,-2.0
+with,0,,delivered,['voice'],0.0,-2.0
+a,0,,voice,[],0.0,-2.0
+raised,0,,voice,[],0.0,-2.0
+voice,0,,with,"['a', 'raised']",0.0,-2.0
+and,0,,delivered,[],0.0,-2.0
+repeated,0,,delivered,['for'],0.0,-2.0
+for,0,,repeated,['emphasis'],0.0,-2.0
+emphasis,0,,for,[],0.0,-2.0
+We'll,1,PERSON,sue,[],0.0,-2.0
+sue,0,,sue,"[""We'll"", 'you', '!']",-2.0,-2.0
+you,0,,sue,[],0.0,-2.0
+We,0,,sue,[],0.0,-2.0
+'ll,0,,sue,[],0.0,-2.0
+sue,0,,sue,"['We', ""'ll"", 'you', '!']",-2.0,-2.0
+you,0,,sue,[],0.0,-2.0
+yelled,0,,yelled,"['lawyer', 'to', 'in', 'learned', 'Cohn', '.']",0.0,-3.0
+a,0,,lawyer,[],0.0,-3.0
+Trump,1,ORG,lawyer,[],0.0,-3.0
+lawyer,0,,yelled,"['a', 'Trump']",0.0,-3.0
+to,0,,yelled,['journalists'],0.0,-3.0
+Associated,1,ORG,Press,[],0.0,-3.0
+Press,1,ORG,journalists,['Associated'],0.0,-3.0
+journalists,0,,to,['Press'],0.0,-3.0
+in,0,,yelled,['interview'],0.0,-3.0
+a,0,,interview,[],0.0,-3.0
+phone,0,,interview,[],0.0,-3.0
+interview,0,,in,"['a', 'phone', 'about']",0.0,-3.0
+about,0,,interview,['University'],0.0,-3.0
+Trump,1,ORG,University,[],0.0,-3.0
+University,1,ORG,about,"['Trump', 'and', 'ventures']",0.0,-3.0
+and,0,,University,[],0.0,-3.0
+other,0,,ventures,[],0.0,-3.0
+defunct,0,,ventures,[],-2.0,-3.0
+Trump,1,ORG,ventures,[],0.0,-3.0
+ventures,0,,University,"['other', 'defunct', 'Trump', 'in']",0.0,-3.0
+in,0,,ventures,['2016.Trump'],0.0,-3.0
+2016.Trump,1,CARDINAL,in,[],0.0,-3.0
+learned,0,,yelled,"['tactics', 'from']",0.0,-3.0
+his,0,,dog,[],0.0,-3.0
+attack,0,,dog,[],-1.0,-3.0
+dog,0,,tactics,"['his', 'attack']",0.0,-3.0
+legal,0,,tactics,[],1.0,-3.0
+tactics,0,,learned,"['dog', 'legal']",0.0,-3.0
+from,0,,learned,['advisers'],0.0,-3.0
+one,0,,advisers,[],0.0,-3.0
+his,0,,advisers,[],0.0,-3.0
+early,0,,advisers,[],0.0,-3.0
+legal,0,,advisers,[],1.0,-3.0
+advisers,0,,from,"['one', 'his', 'early', 'legal']",0.0,-3.0
+the,0,,Cohn,[],0.0,-3.0
+late,0,,Cohn,[],0.0,-3.0
+Roy,1,PERSON,Cohn,[],0.0,-3.0
+Cohn,1,PERSON,yelled,"['the', 'late', 'Roy', 'lawyer']",0.0,-3.0
+the,0,,lawyer,[],0.0,-3.0
+disbarred,0,,lawyer,[],0.0,-3.0
+lawyer,0,,Cohn,"['the', 'disbarred', 'made']",0.0,-3.0
+who,0,,made,[],0.0,-3.0
+made,0,,lawyer,"['who', 'name', 'as']",0.0,-3.0
+his,0,,name,[],0.0,-3.0
+name,0,,made,['his'],0.0,-3.0
+as,0,,made,['prosecutor'],0.0,-3.0
+a,0,,prosecutor,[],0.0,-3.0
+prosecutor,0,,as,"['a', 'in']",0.0,-3.0
+in,0,,prosecutor,['case'],0.0,-3.0
+the,0,,case,[],0.0,-3.0
+Julius,1,ORG,Rosenberg,['and'],0.0,-3.0
+and,0,,Julius,[],0.0,-3.0
+Ethel,1,PERSON,Rosenberg,[],0.0,-3.0
+Rosenberg,1,PERSON,case,"['Julius', 'Ethel']",0.0,-3.0
+communist,0,,spying,[],0.0,-3.0
+spying,0,,case,['communist'],0.0,-3.0
+case,0,,in,"['the', 'Rosenberg', 'spying', 'sent']",0.0,-3.0
+that,0,,sent,[],0.0,-3.0
+sent,0,,case,"['that', 'husband', 'to', 'then', 'as', 'during']",0.0,-3.0
+the,0,,husband,[],0.0,-3.0
+husband,0,,sent,"['the', 'and', 'wife']",0.0,-3.0
+and,0,,husband,[],0.0,-3.0
+wife,0,,husband,[],0.0,-3.0
+to,0,,sent,['chair'],0.0,-3.0
+the,0,,chair,[],0.0,-3.0
+electric,0,,chair,[],0.0,-3.0
+chair,0,,to,"['the', 'electric']",0.0,-3.0
+then,0,,sent,[],0.0,-3.0
+as,0,,sent,['aide'],0.0,-3.0
+aide,0,,as,['to'],0.0,-3.0
+to,0,,aide,['McCarthy'],0.0,-3.0
+Sen.,0,,McCarthy,[],0.0,-3.0
+Joe,1,PERSON,McCarthy,[],0.0,-3.0
+McCarthy,1,PERSON,to,"['Sen.', 'Joe']",0.0,-3.0
+during,0,,sent,['hearings'],0.0,-3.0
+the,0,,hearings,[],0.0,-3.0
+Red,1,ORG,Scare,[],0.0,-3.0
+Scare,1,ORG,hearings,['Red'],-2.0,-3.0
+hearings,0,,during,"['the', 'Scare']",0.0,-3.0
+Under,0,,countersued,['Trump'],0.0,2.0
+Cohn,1,PERSON,Trump,[],0.0,2.0
+Trump,1,PERSON,Under,['Cohn'],0.0,2.0
+countersued,0,,countersued,"['Under', 'Department', 'brought', '.']",0.0,2.0
+the,1,ORG,Department,[],0.0,2.0
+Justice,1,ORG,Department,[],2.0,2.0
+Department,1,ORG,countersued,"['the', 'Justice']",0.0,2.0
+after,0,,brought,[],0.0,2.0
+it,0,,brought,[],0.0,2.0
+brought,0,,countersued,"['after', 'it', 'case', 'in', 'for']",0.0,2.0
+a,0,,case,[],0.0,2.0
+case,0,,brought,"['a', 'against']",0.0,2.0
+against,0,,case,['Organization'],0.0,2.0
+the,1,ORG,Organization,[],0.0,2.0
+Trump,1,ORG,Organization,[],0.0,2.0
+Organization,1,ORG,against,"['the', 'Trump']",0.0,2.0
+in,0,,brought,['1970s'],0.0,2.0
+the,1,DATE,1970s,[],0.0,2.0
+early,1,DATE,1970s,[],0.0,2.0
+1970s,1,DATE,in,"['the', 'early']",0.0,2.0
+for,0,,brought,['discrimination'],0.0,2.0
+housing,0,,discrimination,[],0.0,2.0
+discrimination,0,,for,['housing'],0.0,2.0
+The,1,ORG,Organization,[],0.0,-4.0
+Trump,1,ORG,Organization,[],0.0,-4.0
+Organization,1,ORG,settled,"['The', 'Trump']",0.0,-4.0
+eventually,0,,settled,[],0.0,-4.0
+settled,0,,settled,"['Organization', 'eventually', 'admitting', '.']",0.0,-4.0
+admitting,0,,settled,['guilt'],0.0,-4.0
+no,0,,guilt,[],-1.0,-4.0
+guilt,0,,admitting,['no'],-3.0,-4.0
+In,0,,let,['years'],0.0,0.0
+the,1,DATE,years,[],0.0,0.0
+years,1,DATE,In,"['the', 'followed']",0.0,0.0
+that,0,,followed,[],0.0,0.0
+followed,0,,years,['that'],0.0,0.0
+the,0,,casework,[],0.0,0.0
+casework,0,,let,['the'],0.0,0.0
+never,0,,let,[],0.0,0.0
+let,0,,let,"['In', 'casework', 'never', 'up', '.']",0.0,0.0
+up,0,,let,[],0.0,0.0
+A,0,,investigation,[],0.0,2.0
+USA,1,ORG,Today,[],0.0,2.0
+Today,1,ORG,investigation,['USA'],0.0,2.0
+investigation,0,,found,"['A', 'Today']",0.0,2.0
+found,0,,found,"['investigation', 'involved', '.']",0.0,2.0
+Trump,1,ORG,involved,[],0.0,2.0
+had,0,,involved,[],0.0,2.0
+been,0,,involved,[],0.0,2.0
+involved,0,,found,"['Trump', 'had', 'been', 'in', 'over']",0.0,2.0
+in,0,,involved,['cases'],0.0,2.0
+at,1,CARDINAL,least,[],0.0,2.0
+least,1,CARDINAL,3500,['at'],0.0,2.0
+3500,1,CARDINAL,cases,['least'],0.0,2.0
+court,0,,cases,[],0.0,2.0
+cases,0,,in,"['3500', 'court']",0.0,2.0
+over,0,,involved,['course'],0.0,2.0
+the,0,,course,[],0.0,2.0
+course,0,,over,"['the', 'of']",0.0,2.0
+of,0,,course,['decades'],0.0,2.0
+three,1,DATE,decades,[],0.0,2.0
+decades,1,DATE,of,"['three', 'combined']",0.0,2.0
+more,1,DATE,five,['-'],0.0,2.0
+than,1,DATE,five,[],0.0,2.0
+five,1,DATE,owners,"['more', 'than']",0.0,2.0
+other,0,,owners,[],0.0,2.0
+top,0,,owners,[],2.0,2.0
+U.S.,1,GPE,owners,[],0.0,2.0
+real,0,,estate,[],0.0,2.0
+estate,0,,owners,['real'],0.0,2.0
+owners,0,,combined,"['five', 'other', 'top', 'U.S.', 'estate']",0.0,2.0
+combined,0,,decades,['owners'],0.0,2.0
+In,0,,was,['half'],0.0,-2.0
+more,1,CARDINAL,half,[],0.0,-2.0
+than,1,CARDINAL,half,[],0.0,-2.0
+half,1,CARDINAL,In,"['more', 'than', 'of']",0.0,-2.0
+of,0,,half,['cases'],0.0,-2.0
+the,0,,cases,[],0.0,-2.0
+cases,0,,of,['the'],0.0,-2.0
+Trump,1,ORG,was,[],0.0,-2.0
+was,0,,was,"['In', 'Trump', 'one', '.']",0.0,-2.0
+the,0,,one,[],0.0,-2.0
+one,0,,was,"['the', 'sued']",0.0,-2.0
+who,0,,sued,[],0.0,-2.0
+had,0,,sued,[],0.0,-2.0
+sued,0,,one,"['who', 'had']",-2.0,-2.0
+The,0,,litigation,[],0.0,-1.0
+litigation,0,,continued,['The'],-1.0,-1.0
+continued,0,,continued,"['litigation', 'was', '.']",0.0,-1.0
+while,0,,was,[],0.0,-1.0
+Trump,1,ORG,was,[],0.0,-1.0
+was,0,,continued,"['while', 'Trump', 'in']",0.0,-1.0
+in,0,,was,['House'],0.0,-1.0
+the,1,FAC,House,[],0.0,-1.0
+White,1,FAC,House,[],0.0,-1.0
+House,1,FAC,in,"['the', 'White']",0.0,-1.0
+In,0,,filed,['attempt'],0.0,-7.0
+a,0,,attempt,[],0.0,-7.0
+desperate,0,,attempt,"['and', 'futile']",-3.0,-7.0
+and,0,,desperate,[],0.0,-7.0
+futile,0,,desperate,[],-2.0,-7.0
+attempt,0,,In,"['a', 'desperate', 'remain']",0.0,-7.0
+to,0,,remain,[],0.0,-7.0
+remain,0,,attempt,"['to', 'in']",0.0,-7.0
+in,0,,remain,['power'],0.0,-7.0
+power,0,,in,[],0.0,-7.0
+Trump,1,ORG,filed,"['and', 'allies']",0.0,-7.0
+and,0,,Trump,[],0.0,-7.0
+his,0,,allies,[],0.0,-7.0
+allies,0,,Trump,['his'],0.0,-7.0
+filed,0,,filed,"['In', 'Trump', 'dozens', '.']",0.0,-7.0
+dozens,1,CARDINAL,filed,['of'],0.0,-7.0
+of,0,,dozens,['lawsuits'],0.0,-7.0
+baseless,0,,lawsuits,[],0.0,-7.0
+lawsuits,0,,of,"['baseless', 'challenging']",-2.0,-7.0
+challenging,0,,lawsuits,['results'],0.0,-7.0
+the,0,,results,[],0.0,-7.0
+2020,1,DATE,results,[],0.0,-7.0
+election,0,,results,[],0.0,-7.0
+results,0,,challenging,"['the', '2020', 'election']",0.0,-7.0
+Again,0,,said,['and'],0.0,-8.0
+and,0,,Again,[],0.0,-8.0
+again,0,,said,[],0.0,-8.0
+judges,0,,said,[],0.0,-8.0
+said,0,,said,"['Again', 'again', 'judges', 'failed', '.']",0.0,-8.0
+the,0,,plaintiffs,[],0.0,-8.0
+plaintiffs,0,,failed,['the'],0.0,-8.0
+had,0,,failed,[],0.0,-8.0
+failed,0,,said,"['plaintiffs', 'had', 'prove']",-2.0,-8.0
+to,0,,prove,[],0.0,-8.0
+prove,0,,failed,"['to', 'fraud']",0.0,-8.0
+fraud,0,,prove,"['or', 'misconduct']",-4.0,-8.0
+or,0,,fraud,[],0.0,-8.0
+misconduct,0,,fraud,[],-2.0,-8.0
+Trump,1,ORG,made,[],0.0,1.0
+had,0,,made,[],0.0,1.0
+made,0,,made,"['Trump', 'had', 'clear', '.']",0.0,1.0
+clear,0,,made,"['intentions', 'counted']",1.0,1.0
+his,0,,intentions,[],0.0,1.0
+intentions,0,,clear,['his'],0.0,1.0
+even,0,,counted,[],0.0,1.0
+before,0,,counted,[],0.0,1.0
+all,0,,votes,[],0.0,1.0
+the,0,,votes,[],0.0,1.0
+votes,0,,counted,"['all', 'the']",0.0,1.0
+had,0,,counted,[],0.0,1.0
+been,0,,counted,[],0.0,1.0
+counted,0,,clear,"['even', 'before', 'votes', 'had', 'been']",0.0,1.0
+We'll,0,,going,[],0.0,4.0
+be,0,,going,[],0.0,4.0
+going,0,,said,"[""We'll"", 'be', 'to']",0.0,4.0
+to,0,,going,['Court'],0.0,4.0
+the,1,ORG,Court,[],0.0,4.0
+U.S.,1,ORG,Court,[],0.0,4.0
+Supreme,1,ORG,Court,[],4.0,4.0
+Court,1,ORG,to,"['the', 'U.S.', 'Supreme']",0.0,4.0
+he,0,,said,[],0.0,4.0
+said,0,,said,"['going', 'he', 'during', '.']",0.0,4.0
+during,0,,said,['hours'],0.0,4.0
+a,0,,hours,[],0.0,4.0
+2:30,1,TIME,a.m.,[],0.0,4.0
+a.m.,1,TIME,appearance,['2:30'],0.0,4.0
+appearance,0,,hours,['a.m.'],0.0,4.0
+hours,1,TIME,during,"['a', 'appearance', 'closed']",0.0,4.0
+after,0,,closed,[],0.0,4.0
+polls,0,,closed,[],0.0,4.0
+had,0,,closed,[],0.0,4.0
+closed,0,,hours,"['after', 'polls', 'had']",0.0,4.0
+He,0,,'s,[],0.0,-3.0
+'s,0,,'s,"['He', 'instituted', '.']",0.0,-3.0
+exceptionally,0,,litigious,[],0.0,-3.0
+litigious,0,,much,['exceptionally'],-2.0,-3.0
+much,0,,instituted,"['litigious', 'of']",0.0,-3.0
+of,0,,much,['which'],0.0,-3.0
+which,0,,of,[],0.0,-3.0
+is,0,,instituted,[],0.0,-3.0
+instituted,0,,'s,"['much', 'is', 'win']",0.0,-3.0
+not,0,,win,[],0.0,-3.0
+to,0,,win,[],0.0,-3.0
+win,0,,instituted,"['not', 'to', 'but', 'frustrate']",4.0,-3.0
+but,0,,win,['rather'],0.0,-3.0
+rather,0,,but,[],0.0,-3.0
+to,0,,frustrate,[],0.0,-3.0
+frustrate,0,,win,"['to', 'party', 'by']",-2.0,-3.0
+the,0,,party,[],0.0,-3.0
+opposing,0,,party,[],0.0,-3.0
+party,0,,frustrate,"['the', 'opposing']",0.0,-3.0
+by,0,,frustrate,['causing'],0.0,-3.0
+causing,0,,by,['said'],0.0,-3.0
+financial,0,,hardship,[],0.0,-3.0
+hardship,0,,said,['financial'],-2.0,-3.0
+said,0,,causing,"['hardship', 'Cohen']",0.0,-3.0
+Trump,1,ORG,adversary,"[""'s""]",0.0,-3.0
+'s,0,,Trump,[],0.0,-3.0
+former,0,,adversary,[],0.0,-3.0
+fixer,0,,turned,[],0.0,-3.0
+turned,0,,adversary,"['fixer', '-']",0.0,-3.0
+adversary,0,,Cohen,"['Trump', 'former', 'turned']",-1.0,-3.0
+Michael,1,PERSON,Cohen,[],0.0,-3.0
+Cohen,1,PERSON,said,"['adversary', 'Michael', 'went']",0.0,-3.0
+who,0,,went,[],0.0,-3.0
+went,0,,Cohen,"['who', 'to', 'for']",0.0,-3.0
+to,0,,went,['jail'],0.0,-3.0
+jail,0,,to,[],0.0,-3.0
+for,0,,went,['making'],0.0,-3.0
+making,0,,for,"['payments', 'to']",0.0,-3.0
+hush,0,,payments,[],0.0,-3.0
+money,0,,payments,[],0.0,-3.0
+payments,0,,making,"['hush', 'money']",0.0,-3.0
+to,0,,making,['star'],0.0,-3.0
+a,0,,star,[],0.0,-3.0
+porn,0,,star,[],0.0,-3.0
+star,0,,to,"['a', 'porn', 'alleged']",0.0,-3.0
+who,0,,alleged,[],0.0,-3.0
+alleged,0,,star,"['who', 'affair', 'lying']",0.0,-3.0
+an,0,,affair,[],0.0,-3.0
+affair,0,,alleged,"['an', 'with', 'as']",0.0,-3.0
+with,0,,affair,['Trump'],0.0,-3.0
+Trump,1,ORG,with,[],0.0,-3.0
+as,0,,as,[],0.0,-3.0
+well,0,,as,[],0.0,-3.0
+as,0,,affair,"['as', 'well']",0.0,-3.0
+lying,0,,alleged,"['to', 'about']",0.0,-3.0
+to,0,,lying,['Congress'],0.0,-3.0
+Congress,1,ORG,to,[],0.0,-3.0
+about,0,,lying,['skyscraper'],0.0,-3.0
+a,0,,skyscraper,[],0.0,-3.0
+proposed,0,,skyscraper,[],0.0,-3.0
+Trump,1,ORG,skyscraper,[],0.0,-3.0
+skyscraper,0,,about,"['a', 'proposed', 'Trump', 'in']",0.0,-3.0
+in,0,,skyscraper,['Moscow'],0.0,-3.0
+Moscow,1,GPE,in,[],0.0,-3.0
+When,0,,said,[],0.0,3.0
+Trump,1,PERSON,wins,[],0.0,3.0
+wins,0,,said,['Trump'],4.0,3.0
+as,0,,did,[],0.0,3.0
+he,0,,did,[],0.0,3.0
+did,0,,said,"['as', 'he', 'week', 'in']",0.0,3.0
+last,1,DATE,week,[],0.0,3.0
+week,1,DATE,did,['last'],0.0,3.0
+in,0,,did,['case'],0.0,3.0
+a,0,,case,[],0.0,3.0
+case,0,,in,"['a', 'involving']",0.0,3.0
+involving,0,,case,['Cohen'],0.0,3.0
+the,0,,star,[],0.0,3.0
+porn,0,,star,[],0.0,3.0
+star,0,,Cohen,"['the', 'porn']",0.0,3.0
+Stormy,1,ORG,Cohen,[],0.0,3.0
+Daniels,1,ORG,Cohen,[],0.0,3.0
+Cohen,1,ORG,involving,"['star', 'Stormy', 'Daniels', '-']",0.0,3.0
+said,0,,said,"['When', 'wins', '-', 'did', 'emboldens', '.']",0.0,3.0
+It,0,,emboldens,[],0.0,3.0
+emboldens,0,,said,"['It', 'him', 'continue']",0.0,3.0
+him,0,,emboldens,[],0.0,3.0
+to,0,,continue,[],0.0,3.0
+continue,0,,emboldens,"['to', 'rampage']",0.0,3.0
+this,0,,rampage,[],0.0,3.0
+rampage,0,,continue,"['this', 'of', 'for']",0.0,3.0
+of,0,,rampage,['litigation'],0.0,3.0
+litigation,0,,of,[],-1.0,3.0
+for,0,,rampage,['purposes'],0.0,3.0
+alternative,0,,purposes,[],0.0,3.0
+purposes,0,,for,['alternative'],0.0,3.0
+The,0,,suits,[],0.0,0.0
+suits,0,,proven,['The'],0.0,0.0
+have,0,,proven,[],0.0,0.0
+proven,0,,proven,"['suits', 'have', 'beneficial', 'in', '.']",0.0,0.0
+beneficial,0,,proven,[],0.0,0.0
+in,0,,proven,['ways'],0.0,0.0
+other,0,,ways,[],0.0,0.0
+ways,0,,in,['other'],0.0,0.0
+Trump,1,ORG,spent,[],0.0,2.0
+spent,0,,spent,"['Trump', 'efforts', 'obtain', '.']",0.0,2.0
+more,1,DATE,a,[],0.0,2.0
+than,1,DATE,a,[],0.0,2.0
+a,1,DATE,year,"['more', 'than']",0.0,2.0
+year,1,DATE,efforts,"['a', 'and', 'half']",0.0,2.0
+and,1,DATE,year,[],0.0,2.0
+a,1,DATE,half,[],0.0,2.0
+half,1,DATE,year,['a'],0.0,2.0
+fighting,0,,efforts,[],-2.0,2.0
+efforts,0,,spent,"['year', 'fighting', 'by']",0.0,2.0
+by,0,,efforts,['Jr.'],0.0,2.0
+then,0,,Attorney,[],0.0,2.0
+Manhattan,1,GPE,Attorney,[],0.0,2.0
+District,0,,Attorney,[],0.0,2.0
+Attorney,0,,Jr.,"['then', '-', 'Manhattan', 'District']",0.0,2.0
+Cyrus,1,PERSON,Jr.,[],0.0,2.0
+R.,1,PERSON,Jr.,[],0.0,2.0
+Vance,1,PERSON,Jr.,[],0.0,2.0
+Jr.,1,PERSON,by,"['Attorney', 'Cyrus', 'R.', 'Vance']",0.0,2.0
+to,0,,obtain,[],0.0,2.0
+obtain,0,,spent,"['to', 'copies']",0.0,2.0
+copies,0,,obtain,['of'],0.0,2.0
+of,0,,copies,['returns'],0.0,2.0
+his,0,,returns,[],0.0,2.0
+tax,0,,returns,[],0.0,2.0
+returns,0,,of,"['his', 'tax', 'taking']",0.0,2.0
+taking,0,,returns,"['case', 'to']",0.0,2.0
+the,0,,case,[],0.0,2.0
+case,0,,taking,['the'],0.0,2.0
+all,0,,way,[],0.0,2.0
+the,0,,way,[],0.0,2.0
+way,0,,to,"['all', 'the']",0.0,2.0
+to,0,,taking,"['way', 'Court']",0.0,2.0
+the,1,ORG,Court,[],0.0,2.0
+Supreme,1,ORG,Court,[],4.0,2.0
+Court,1,ORG,to,"['the', 'Supreme']",0.0,2.0
+While,0,,failed,[],0.0,-5.0
+Trump,1,ORG,failed,[],0.0,-5.0
+ultimately,0,,failed,[],0.0,-5.0
+failed,0,,dragged,"['While', 'Trump', 'ultimately']",-2.0,-5.0
+his,0,,tactics,[],0.0,-5.0
+stall,0,,tactics,[],-2.0,-5.0
+tactics,0,,dragged,"['his', 'stall']",0.0,-5.0
+dragged,0,,dragged,"['failed', 'tactics', 'case', 'out', 'long', '.']",-1.0,-5.0
+the,0,,case,[],0.0,-5.0
+case,0,,dragged,['the'],0.0,-5.0
+out,0,,dragged,[],0.0,-5.0
+so,0,,long,[],0.0,-5.0
+long,0,,dragged,"['so', 'replaced']",0.0,-5.0
+that,0,,replaced,[],0.0,-5.0
+Vance,1,PERSON,replaced,['appeared'],0.0,-5.0
+who,0,,appeared,[],0.0,-5.0
+had,0,,appeared,[],0.0,-5.0
+appeared,0,,Vance,"['who', 'had', 'on']",0.0,-5.0
+on,0,,appeared,['cusp'],0.0,-5.0
+the,0,,cusp,[],0.0,-5.0
+cusp,0,,on,"['the', 'of']",0.0,-5.0
+of,0,,cusp,['seeking'],0.0,-5.0
+seeking,0,,of,['indictment'],0.0,-5.0
+an,0,,indictment,[],0.0,-5.0
+indictment,0,,seeking,['an'],0.0,-5.0
+was,0,,replaced,[],0.0,-5.0
+replaced,0,,long,"['that', 'Vance', 'was', 'by']",0.0,-5.0
+by,0,,replaced,['successor'],0.0,-5.0
+a,0,,successor,[],0.0,-5.0
+successor,0,,by,"['a', 'has']",0.0,-5.0
+who,0,,has,[],0.0,-5.0
+has,0,,successor,"['who', 'but', 'closed']",0.0,-5.0
+allegedly,0,,all,[],0.0,-5.0
+all,0,,but,['allegedly'],0.0,-5.0
+but,0,,has,['all'],0.0,-5.0
+closed,0,,has,['case'],0.0,-5.0
+the,0,,case,[],0.0,-5.0
+case,0,,closed,['the'],0.0,-5.0
+Even,0,,family,[],0.0,1.0
+family,0,,is,['Even'],0.0,1.0
+is,0,,is,"['family', 'not', 'immune', '.']",0.0,1.0
+not,0,,is,[],0.0,1.0
+immune,0,,is,[],1.0,1.0
+In,0,,sued,['September'],0.0,1.0
+September,1,DATE,In,[],0.0,1.0
+Trump,0,,sued,[],0.0,1.0
+sued,0,,sued,"['In', 'Trump', 'niece', 'over', '.']",-2.0,1.0
+his,0,,niece,[],0.0,1.0
+estranged,0,,niece,[],0.0,1.0
+niece,0,,sued,"['his', 'estranged', 'Trump']",0.0,1.0
+Mary,1,PERSON,Trump,[],0.0,1.0
+Trump,1,PERSON,niece,"['Mary', 'and', 'Times']",0.0,1.0
+and,0,,Trump,[],0.0,1.0
+The,1,ORG,Times,[],0.0,1.0
+New,1,ORG,York,[],0.0,1.0
+York,1,ORG,Times,['New'],0.0,1.0
+Times,1,ORG,Trump,"['The', 'York']",0.0,1.0
+over,0,,sued,['story'],0.0,1.0
+a,0,,story,[],0.0,1.0
+2018,1,DATE,story,[],0.0,1.0
+story,0,,over,"['a', '2018', 'challenged']",0.0,1.0
+that,0,,challenged,[],0.0,1.0
+challenged,0,,story,"['that', 'claims', 'by']",0.0,1.0
+Trump,1,ORG,claims,"[""'s""]",0.0,1.0
+'s,0,,Trump,[],0.0,1.0
+claims,0,,challenged,"['Trump', 'of']",0.0,1.0
+of,0,,claims,['wealth'],0.0,1.0
+self,0,,made,[],0.0,1.0
+made,0,,wealth,"['self', '-']",0.0,1.0
+wealth,0,,of,['made'],3.0,1.0
+by,0,,challenged,['documenting'],0.0,1.0
+documenting,0,,by,['given'],0.0,1.0
+how,0,,given,[],0.0,1.0
+his,0,,father,[],0.0,1.0
+father,0,,given,"['his', 'Fred']",0.0,1.0
+Fred,1,PERSON,father,[],0.0,1.0
+had,0,,given,[],0.0,1.0
+given,0,,documenting,"['how', 'father', 'had', 'him', 'million', 'over']",0.0,1.0
+him,0,,given,[],0.0,1.0
+at,1,MONEY,least,[],0.0,1.0
+least,1,MONEY,million,['at'],0.0,1.0
+$,1,MONEY,million,[],0.0,1.0
+413,1,MONEY,million,[],0.0,1.0
+million,1,MONEY,given,"['least', '$', '413']",0.0,1.0
+over,0,,given,['decades'],0.0,1.0
+the,1,DATE,decades,[],0.0,1.0
+decades,1,DATE,over,"['the', 'including']",0.0,1.0
+including,0,,decades,['through'],0.0,1.0
+through,0,,including,['schemes'],0.0,1.0
+tax,0,,avoidance,[],0.0,1.0
+avoidance,0,,schemes,['tax'],0.0,1.0
+schemes,0,,through,['avoidance'],0.0,1.0
+Trump,1,ORG,lawsuit,"[""'s""]",0.0,-4.0
+'s,0,,Trump,[],0.0,-4.0
+lawsuit,0,,filed,['Trump'],-2.0,-4.0
+filed,0,,filed,"['lawsuit', 'in', 'in', 'accused', '.']",0.0,-4.0
+in,0,,filed,['court'],0.0,-4.0
+state,0,,court,[],0.0,-4.0
+court,0,,in,['state'],0.0,-4.0
+in,0,,filed,['York'],0.0,-4.0
+New,1,GPE,York,[],0.0,-4.0
+York,1,GPE,in,['New'],0.0,-4.0
+accused,0,,filed,"['Trump', 'of']",-2.0,-4.0
+Mary,1,PERSON,Trump,[],0.0,-4.0
+Trump,1,PERSON,accused,['Mary'],0.0,-4.0
+of,0,,accused,['breaching'],0.0,-4.0
+breaching,0,,of,"['agreement', 'by']",-2.0,-4.0
+a,0,,agreement,[],0.0,-4.0
+settlement,0,,agreement,[],1.0,-4.0
+agreement,0,,breaching,"['a', 'settlement']",1.0,-4.0
+by,0,,breaching,['disclosing'],0.0,-4.0
+disclosing,0,,by,"['records', 'to']",0.0,-4.0
+the,0,,records,[],0.0,-4.0
+records,0,,disclosing,['the'],0.0,-4.0
+to,0,,disclosing,['reporters'],0.0,-4.0
+the,0,,newspaper,[],0.0,-4.0
+newspaper,0,,reporters,"['the', ""'s""]",0.0,-4.0
+'s,0,,newspaper,[],0.0,-4.0
+reporters,0,,to,['newspaper'],0.0,-4.0
+Mary,1,PERSON,Trump,[],0.0,-3.0
+Trump,1,PERSON,lawyer,"['Mary', ""'s""]",0.0,-3.0
+'s,1,PERSON,Trump,[],0.0,-3.0
+lawyer,0,,wrote,"['Trump', 'Boutrous']",0.0,-3.0
+Ted,1,PERSON,Boutrous,[],0.0,-3.0
+Boutrous,1,PERSON,lawyer,['Ted'],0.0,-3.0
+wrote,0,,wrote,"['lawyer', 'in', 'brought', '.']",0.0,-3.0
+in,0,,wrote,['letter'],0.0,-3.0
+a,0,,letter,[],0.0,-3.0
+March,1,DATE,letter,['11'],0.0,-3.0
+11,1,DATE,March,[],0.0,-3.0
+letter,0,,in,"['a', 'March', 'to']",0.0,-3.0
+to,0,,letter,['court'],0.0,-3.0
+the,0,,court,[],0.0,-3.0
+court,0,,to,['the'],0.0,-3.0
+that,0,,brought,[],0.0,-3.0
+Trump,1,ORG,lawsuit,"[""'s""]",0.0,-3.0
+'s,0,,Trump,[],0.0,-3.0
+lawsuit,0,,brought,['Trump'],-2.0,-3.0
+was,0,,brought,[],0.0,-3.0
+brought,0,,wrote,"['that', 'lawsuit', 'was', 'punish']",0.0,-3.0
+to,0,,punish,[],0.0,-3.0
+punish,0,,brought,"['to', 'Trump', 'and', 'chill']",-2.0,-3.0
+Mary,1,PERSON,Trump,[],0.0,-3.0
+Trump,1,PERSON,punish,['Mary'],0.0,-3.0
+and,0,,punish,[],0.0,-3.0
+to,0,,chill,[],0.0,-3.0
+chill,0,,punish,"['to', 'speech']",0.0,-3.0
+speech,0,,chill,['in'],0.0,-3.0
+in,0,,speech,['interest'],0.0,-3.0
+the,0,,interest,[],0.0,-3.0
+public,0,,interest,[],0.0,-3.0
+interest,0,,in,"['the', 'public', 'about']",1.0,-3.0
+about,0,,interest,['President'],0.0,-3.0
+the,0,,President,[],0.0,-3.0
+former,0,,President,[],0.0,-3.0
+President,0,,about,"['the', 'former']",0.0,-3.0

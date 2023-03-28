@@ -1,0 +1,308 @@
+Token,NEtype,Governor,ListofDependants,SentimentValueofToken,SentimentValueofSentence
+Trump,ORG,suit,[],0.0,-4.0
+Clinton,PERSON,against,[],0.0,-4.0
+JILL,ORG,COLVIN,"['longtime', 'strategyBy']",0.0,-4.0
+ERIC,PERSON,TUCKER,[],0.0,-4.0
+TUCKER,PERSON,COLVIN,"['ERIC', 'and']",0.0,-4.0
+BERNARD,ORG,BERNARD,"['suit', 'revisits', 'grievance', ':', 'colluding', '.']",0.0,-4.0
+30.3.2022,PERSON,Trump,['CONDON'],0.0,-4.0
+Trump,PERSON,revisits,"['30.3.2022', ""'s""]",0.0,-4.0
+'s,PERSON,Trump,[],0.0,-4.0
+Democrats,NORP,that,['in'],0.0,-4.0
+2016,DATE,claims,[],0.0,-4.0
+Russia,GPE,with,[],0.0,-4.0
+FBI,ORG,pursued,"['the', 'as']",0.0,-4.0
+NEW,GPE,YORK,[],0.0,0.0
+YORK,GPE,responded,"['NEW', '(', 'AP', ')', '---']",0.0,0.0
+AP,ORG,YORK,[],0.0,0.0
+Pulitzer,WORK_OF_ART,Prize,[],0.0,0.0
+Prize,WORK_OF_ART,winning,['Pulitzer'],0.0,0.0
+Donald,PERSON,Trump,[],0.0,0.0
+Trump,PERSON,plans,"['Donald', ""'s""]",0.0,0.0
+'s,PERSON,Trump,[],0.0,0.0
+Manhattan,GPE,skyscraper,[],0.0,0.0
+Trump,ORG,responded,[],0.0,0.0
+Trump,PERSON,slapped,[],0.0,-1.0
+Trump,PERSON,took,[],0.0,3.0
+Trump,ORG,week,[],0.0,2.0
+last,DATE,week,[],0.0,2.0
+week,DATE,filed,"['Trump', 'last']",0.0,2.0
+2016,DATE,rival,[],0.0,2.0
+Hillary,PERSON,Clinton,[],0.0,2.0
+Clinton,PERSON,rival,"['Hillary', 'and', 'Party']",0.0,2.0
+the,ORG,Party,[],0.0,2.0
+Democratic,ORG,Party,[],0.0,2.0
+Party,ORG,Clinton,"['the', 'Democratic', 'of']",0.0,2.0
+Russia,GPE,renewing,[],0.0,2.0
+one,CARDINAL,to,"['renewing', 'of']",0.0,2.0
+Trump,ORG,spent,[],0.0,1.0
+decades,DATE,spent,['repurposing'],0.0,1.0
+James,PERSON,Zirin,[],0.0,-3.0
+D.,PERSON,Zirin,[],0.0,-3.0
+Zirin,PERSON,said,"['James', 'D.', 'prosecutor', 'author']",0.0,-3.0
+Manhattan,GPE,in,['and'],0.0,-3.0
+Plaintiff,LAW,book,['in'],0.0,-3.0
+in,LAW,Plaintiff,['Chief'],0.0,-3.0
+Chief,LAW,in,[],0.0,-3.0
+Trump,ORG,history,"[""'s""]",0.0,-3.0
+Trump,ORG,revisits,"[""'s""]",0.0,-5.0
+Democrats,NORP,that,['in'],0.0,-5.0
+2016,DATE,claims,[],0.0,-5.0
+Russia,GPE,with,[],0.0,-5.0
+FBI,ORG,pursued,"['the', 'as']",0.0,-5.0
+108,CARDINAL,page,[],0.0,1.0
+Clinton,PERSON,realm,"['-', 'and', 'aides', '-', 'and', 'community']",0.0,1.0
+FBI,ORG,Director,[],0.0,1.0
+James,PERSON,Comey,[],0.0,1.0
+Comey,PERSON,including,"['Director', 'James', 'and', 'Strzok']",0.0,1.0
+Peter,PERSON,Strzok,[],0.0,1.0
+Strzok,PERSON,Comey,"['Peter', 'and']",0.0,1.0
+Lisa,PERSON,Page,[],0.0,1.0
+Page,PERSON,realm,['Lisa'],0.0,1.0
+two,CARDINAL,officials,[],0.0,1.0
+FBI,ORG,officials,[],0.0,1.0
+Trump,ORG,about,[],0.0,1.0
+2016,DATE,campaign,[],0.0,1.0
+John,PERSON,Durham,[],0.0,-6.0
+Durham,PERSON,listing,"['counsel', 'John']",0.0,-6.0
+three,CARDINAL,people,[],0.0,-6.0
+ex,ORG,lawyer,[],0.0,-6.0
+FBI,ORG,lawyer,[],0.0,-6.0
+Russia,GPE,analyst,[],0.0,-6.0
+FBI,ORG,officials,[],0.0,-7.0
+Defendants,ORG,conspired,['the'],0.0,-11.0
+Republican,NORP,opponent,[],0.0,-11.0
+Donald,PERSON,Trump,[],0.0,-11.0
+J.,PERSON,Trump,[],0.0,-11.0
+Trump,PERSON,opponent,"['Donald', 'J.']",0.0,-11.0
+Watergate,EVENT,pale,[],0.0,-11.0
+Justice,ORG,Department,[],2.0,0.0
+Department,ORG,inspector,['Justice'],0.0,0.0
+FBI,ORG,made,['the'],0.0,0.0
+Russia,GPE,probe,[],0.0,0.0
+Trump,ORG,look,[],0.0,0.0
+Russia,GPE,did,[],0.0,0.0
+2016,DATE,election,[],0.0,0.0
+U.S.,GPE,agencies,[],0.0,2.0
+January,DATE,in,['2017'],0.0,2.0
+2017,DATE,January,[],0.0,2.0
+Russia,GPE,mounted,[],0.0,2.0
+Trump,ORG,beat,[],0.0,2.0
+Clinton,PERSON,beat,[],0.0,2.0
+Senate,ORG,Committee,[],0.0,2.0
+Intelligence,ORG,Committee,[],0.0,2.0
+Committee,ORG,affirmed,"['the', 'bipartisan', 'Senate', 'Intelligence']",0.0,2.0
+three,DATE,years,[],0.0,2.0
+years,DATE,after,"['three', 'of']",0.0,2.0
+Russia,GPE,preferred,[],0.0,2.0
+Trump,ORG,preferred,[],0.0,2.0
+Russian,NORP,President,[],0.0,2.0
+Vladimir,PERSON,Putin,[],0.0,2.0
+Putin,PERSON,approved,"['President', 'Vladimir']",0.0,2.0
+Kremlin,ORG,campaign,"['the', ""'s""]",0.0,2.0
+Trump,ORG,campaign,"[""'s""]",0.0,1.0
+Russia,GPE,campaign,[],0.0,1.0
+Trump,ORG,chairman,"[""'s""]",0.0,1.0
+Russian,NORP,officer,[],0.0,1.0
+Trump,ORG,associates,[],0.0,1.0
+Kremlin,ORG,aid,"['the', ""'s""]",0.0,1.0
+Robert,PERSON,Mueller,[],0.0,-9.0
+Mueller,PERSON,counsel,['Robert'],0.0,-9.0
+Trump,ORG,between,"['and', 'Russia']",0.0,-9.0
+Russia,GPE,Trump,[],0.0,-9.0
+Russia,GPE,between,"['and', 'campaign']",0.0,-9.0
+Trump,ORG,campaign,[],0.0,-9.0
+Russian,NORP,interference,[],0.0,-9.0
+34,CARDINAL,people,[],0.0,-5.0
+three,CARDINAL,entities,[],0.0,-5.0
+26,CARDINAL,Trump,[],0.0,-5.0
+Russians,NORP,Trump,[],0.0,-5.0
+Trump,ORG,chair,"['26', 'Russians', ""'s""]",0.0,-5.0
+Trump,ORG,for,[],0.0,0.0
+Trump,ORG,attorney,[],0.0,0.0
+Alina,PERSON,Habba,[],0.0,0.0
+Habba,PERSON,defended,"['attorney', 'Alina']",0.0,0.0
+Newsmax,ORG,on,[],0.0,0.0
+Trump,ORG,using,[],0.0,0.0
+Georgia,GPE,in,[],0.0,0.0
+Saturday,DATE,night,[],0.0,0.0
+night,TIME,rile,['Saturday'],0.0,0.0
+this,DATE,week,[],0.0,-7.0
+week,DATE,lies,['this'],0.0,-7.0
+Russia,GPE,Russia,[],0.0,-7.0
+Russia,GPE,Russia,['Russia'],0.0,-7.0
+Russia,GPE,for,"['the', 'Russia']",0.0,-7.0
+Trump,ORG,said,['hoax'],0.0,0.0
+Clinton,PERSON,of,[],0.0,2.0
+Lock,PERSON,of,"['the', 'her', 'up']",0.0,2.0
+2016,DATE,campaign,[],0.0,0.0
+Trump,ORG,effort,"[""'s""]",0.0,3.0
+the,ORG,House,[],0.0,3.0
+White,ORG,House,[],0.0,3.0
+House,ORG,for,"['the', 'White']",0.0,3.0
+Stephen,PERSON,Gillers,[],0.0,3.0
+Gillers,PERSON,said,"['Stephen', 'professor']",0.0,3.0
+New,ORG,York,[],0.0,3.0
+York,ORG,University,['New'],0.0,3.0
+University,ORG,professor,['York'],0.0,3.0
+Last,DATE,year,[],0.0,-5.0
+year,DATE,took,['Last'],0.0,-5.0
+Trump,PERSON,took,[],0.0,-5.0
+three,CARDINAL,against,['of'],0.0,-5.0
+Trump,ORG,used,[],0.0,0.0
+Trump,ORG,use,"[""'s""]",0.0,-5.0
+Trump,ORG,loved,[],0.0,0.0
+Barbara,PERSON,Res,[],0.0,0.0
+Res,PERSON,executive,['Barbara'],0.0,0.0
+Trump,ORG,Organization,[],0.0,0.0
+Organization,ORG,executive,['Trump'],0.0,0.0
+one,CARDINAL,tactic,[],0.0,0.0
+Trump,ORG,perception,"[""'s""]",0.0,-4.0
+first,ORDINAL,person,[],0.0,-4.0
+Res,PERSON,said,"['a', 'complaint']",0.0,-4.0
+Trump,ORG,defaulted,[],0.0,-5.0
+Deutsche,ORG,Bank,[],0.0,-5.0
+Bank,ORG,loan,['Deutsche'],0.0,-5.0
+Chicago,GPE,hotel,[],0.0,-5.0
+2008,DATE,crisis,[],0.0,-5.0
+Deutsche,ORG,Bank,[],0.0,1.0
+Bank,ORG,ended,['Deutsche'],0.0,1.0
+hundreds,MONEY,millions,[],0.0,1.0
+of,MONEY,millions,[],0.0,1.0
+millions,MONEY,extending,"['hundreds', 'of', 'of', 'in', 'in']",0.0,1.0
+of,MONEY,millions,['dollars'],0.0,1.0
+dollars,MONEY,of,[],0.0,1.0
+the,DATE,years,[],0.0,1.0
+coming,DATE,years,[],0.0,1.0
+years,DATE,in,"['the', 'coming']",0.0,1.0
+New,ORG,York,[],0.0,-2.0
+York,ORG,Times,['New'],0.0,-2.0
+Times,ORG,columnist,['York'],0.0,-2.0
+Trump,ORG,lawyers,"[""'s""]",0.0,-2.0
+We'll,PERSON,sue,[],0.0,-2.0
+Trump,ORG,lawyer,[],0.0,-3.0
+Associated,ORG,Press,[],0.0,-3.0
+Press,ORG,journalists,['Associated'],0.0,-3.0
+Trump,ORG,University,[],0.0,-3.0
+University,ORG,about,"['Trump', 'and', 'ventures']",0.0,-3.0
+Trump,ORG,ventures,[],0.0,-3.0
+2016.Trump,CARDINAL,in,[],0.0,-3.0
+Roy,PERSON,Cohn,[],0.0,-3.0
+Cohn,PERSON,yelled,"['the', 'late', 'Roy', 'lawyer']",0.0,-3.0
+Julius,ORG,Rosenberg,['and'],0.0,-3.0
+Ethel,PERSON,Rosenberg,[],0.0,-3.0
+Rosenberg,PERSON,case,"['Julius', 'Ethel']",0.0,-3.0
+Joe,PERSON,McCarthy,[],0.0,-3.0
+McCarthy,PERSON,to,"['Sen.', 'Joe']",0.0,-3.0
+Red,ORG,Scare,[],0.0,-3.0
+Scare,ORG,hearings,['Red'],-2.0,-3.0
+Cohn,PERSON,Trump,[],0.0,2.0
+Trump,PERSON,Under,['Cohn'],0.0,2.0
+the,ORG,Department,[],0.0,2.0
+Justice,ORG,Department,[],2.0,2.0
+Department,ORG,countersued,"['the', 'Justice']",0.0,2.0
+the,ORG,Organization,[],0.0,2.0
+Trump,ORG,Organization,[],0.0,2.0
+Organization,ORG,against,"['the', 'Trump']",0.0,2.0
+the,DATE,1970s,[],0.0,2.0
+early,DATE,1970s,[],0.0,2.0
+1970s,DATE,in,"['the', 'early']",0.0,2.0
+The,ORG,Organization,[],0.0,-4.0
+Trump,ORG,Organization,[],0.0,-4.0
+Organization,ORG,settled,"['The', 'Trump']",0.0,-4.0
+the,DATE,years,[],0.0,0.0
+years,DATE,In,"['the', 'followed']",0.0,0.0
+USA,ORG,Today,[],0.0,2.0
+Today,ORG,investigation,['USA'],0.0,2.0
+Trump,ORG,involved,[],0.0,2.0
+at,CARDINAL,least,[],0.0,2.0
+least,CARDINAL,3500,['at'],0.0,2.0
+3500,CARDINAL,cases,['least'],0.0,2.0
+three,DATE,decades,[],0.0,2.0
+decades,DATE,of,"['three', 'combined']",0.0,2.0
+more,DATE,five,['-'],0.0,2.0
+than,DATE,five,[],0.0,2.0
+five,DATE,owners,"['more', 'than']",0.0,2.0
+U.S.,GPE,owners,[],0.0,2.0
+more,CARDINAL,half,[],0.0,-2.0
+than,CARDINAL,half,[],0.0,-2.0
+half,CARDINAL,In,"['more', 'than', 'of']",0.0,-2.0
+Trump,ORG,was,[],0.0,-2.0
+Trump,ORG,was,[],0.0,-1.0
+the,FAC,House,[],0.0,-1.0
+White,FAC,House,[],0.0,-1.0
+House,FAC,in,"['the', 'White']",0.0,-1.0
+Trump,ORG,filed,"['and', 'allies']",0.0,-7.0
+dozens,CARDINAL,filed,['of'],0.0,-7.0
+2020,DATE,results,[],0.0,-7.0
+Trump,ORG,made,[],0.0,1.0
+the,ORG,Court,[],0.0,4.0
+U.S.,ORG,Court,[],0.0,4.0
+Supreme,ORG,Court,[],4.0,4.0
+Court,ORG,to,"['the', 'U.S.', 'Supreme']",0.0,4.0
+2:30,TIME,a.m.,[],0.0,4.0
+a.m.,TIME,appearance,['2:30'],0.0,4.0
+hours,TIME,during,"['a', 'appearance', 'closed']",0.0,4.0
+Trump,ORG,adversary,"[""'s""]",0.0,-3.0
+Michael,PERSON,Cohen,[],0.0,-3.0
+Cohen,PERSON,said,"['adversary', 'Michael', 'went']",0.0,-3.0
+Trump,ORG,with,[],0.0,-3.0
+Congress,ORG,to,[],0.0,-3.0
+Trump,ORG,skyscraper,[],0.0,-3.0
+Moscow,GPE,in,[],0.0,-3.0
+Trump,PERSON,wins,[],0.0,3.0
+last,DATE,week,[],0.0,3.0
+week,DATE,did,['last'],0.0,3.0
+Stormy,ORG,Cohen,[],0.0,3.0
+Daniels,ORG,Cohen,[],0.0,3.0
+Cohen,ORG,involving,"['star', 'Stormy', 'Daniels', '-']",0.0,3.0
+Trump,ORG,spent,[],0.0,2.0
+more,DATE,a,[],0.0,2.0
+than,DATE,a,[],0.0,2.0
+a,DATE,year,"['more', 'than']",0.0,2.0
+year,DATE,efforts,"['a', 'and', 'half']",0.0,2.0
+and,DATE,year,[],0.0,2.0
+a,DATE,half,[],0.0,2.0
+half,DATE,year,['a'],0.0,2.0
+Manhattan,GPE,Attorney,[],0.0,2.0
+Cyrus,PERSON,Jr.,[],0.0,2.0
+R.,PERSON,Jr.,[],0.0,2.0
+Vance,PERSON,Jr.,[],0.0,2.0
+Jr.,PERSON,by,"['Attorney', 'Cyrus', 'R.', 'Vance']",0.0,2.0
+the,ORG,Court,[],0.0,2.0
+Supreme,ORG,Court,[],4.0,2.0
+Court,ORG,to,"['the', 'Supreme']",0.0,2.0
+Trump,ORG,failed,[],0.0,-5.0
+Vance,PERSON,replaced,['appeared'],0.0,-5.0
+September,DATE,In,[],0.0,1.0
+Mary,PERSON,Trump,[],0.0,1.0
+Trump,PERSON,niece,"['Mary', 'and', 'Times']",0.0,1.0
+The,ORG,Times,[],0.0,1.0
+New,ORG,York,[],0.0,1.0
+York,ORG,Times,['New'],0.0,1.0
+Times,ORG,Trump,"['The', 'York']",0.0,1.0
+2018,DATE,story,[],0.0,1.0
+Trump,ORG,claims,"[""'s""]",0.0,1.0
+Fred,PERSON,father,[],0.0,1.0
+at,MONEY,least,[],0.0,1.0
+least,MONEY,million,['at'],0.0,1.0
+$,MONEY,million,[],0.0,1.0
+413,MONEY,million,[],0.0,1.0
+million,MONEY,given,"['least', '$', '413']",0.0,1.0
+the,DATE,decades,[],0.0,1.0
+decades,DATE,over,"['the', 'including']",0.0,1.0
+Trump,ORG,lawsuit,"[""'s""]",0.0,-4.0
+New,GPE,York,[],0.0,-4.0
+York,GPE,in,['New'],0.0,-4.0
+Mary,PERSON,Trump,[],0.0,-4.0
+Trump,PERSON,accused,['Mary'],0.0,-4.0
+Mary,PERSON,Trump,[],0.0,-3.0
+Trump,PERSON,lawyer,"['Mary', ""'s""]",0.0,-3.0
+'s,PERSON,Trump,[],0.0,-3.0
+Ted,PERSON,Boutrous,[],0.0,-3.0
+Boutrous,PERSON,lawyer,['Ted'],0.0,-3.0
+March,DATE,letter,['11'],0.0,-3.0
+11,DATE,March,[],0.0,-3.0
+Trump,ORG,lawsuit,"[""'s""]",0.0,-3.0
+Mary,PERSON,Trump,[],0.0,-3.0
+Trump,PERSON,punish,['Mary'],0.0,-3.0
