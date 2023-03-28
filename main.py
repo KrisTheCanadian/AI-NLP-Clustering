@@ -1,5 +1,4 @@
 import warnings
-from typing import Any
 
 import spacy
 from afinn import Afinn
@@ -73,7 +72,7 @@ def build_tables(doc: Doc) -> (DataFrame, DataFrame):
 
 def plot_clusters(kmeans, np_table, name="default cluster"):
     plt.title(name)
-    plt.scatter(x=np_table[:, 0], y=np_table[:, 1])
+    plt.scatter(x=np_table[:, 0], y=np_table[:, 1], c=kmeans.labels_, cmap='rainbow', alpha=0.7, edgecolors='b')
     plt.scatter(x=kmeans.cluster_centers_[:, 0], y=kmeans.cluster_centers_[:, 1], c='red', s=200, alpha=0.5,
                 label='centroid')
     plt.grid()
@@ -184,8 +183,8 @@ def main():
     s1_table_2.to_csv('s1_table_2.csv', index=False)
 
     # Creating the clusters
-    table_1_cluster: ndarray = build_cluster_1(trump_table_1, 3)
-    table_2_cluster: ndarray = build_cluster_2(trump_table_2, 2)
+    build_cluster_1(trump_table_1, 3)
+    build_cluster_2(trump_table_2, 2)
 
     # Display the tables
     display_table(trump_table_1, "AP on Trump (Table 1)")
